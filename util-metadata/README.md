@@ -1,5 +1,5 @@
 ## Utility Information
-## THIS IS AN "USEFUL UTILITY" for anyone to freely use, it is **not** an competition entry for prize money
+## THIS IS AN "USEFUL UTILITY" for anyone to freely use, it is not an competition entry for prize money
 
 ### Utility Name
 
