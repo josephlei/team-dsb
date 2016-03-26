@@ -1,8 +1,9 @@
-## Project Information
+## Utility Information
+## THIS IS AN "USEFUL UTILITY" for anyone to freely use, it is **not** an competition entry for prize money
 
-### Project Name
+### Utility Name
 
-Sac County Open Data Set Aggregator
+Sac County Open Data Set Metadata Aggregator
 
 ### Project Description
 
@@ -26,7 +27,3 @@ So far the program is in black and white, so it's 508A compliant too! :D
 
 - Requires python 2.7x and the python library "requests"
 - The API key/token provided in the file is not confidential or tied to a entity, it can be freely replaced with any valid Junar API key
-
-### Additional Information
-
-[Include any additional information that you would like the judges to know about your project]
