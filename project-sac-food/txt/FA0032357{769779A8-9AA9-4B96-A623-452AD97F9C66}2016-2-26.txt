@@ -1,0 +1,272 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: ELSIE CHEVRON
+
+Permit Holder:
+
+CT
+
+FA
+93.19
+
+PR
+FA0032357
+
+7:15 am
+
+Time Out:
+
+8:45 am
+
+Page:
+
+1 of 2
+
+SANJOG INVESTMENTS INC
+
+City: Sacramento
+
+Address: 7314 ELSIE AVE
+
+02/26/2016
+
+Time In:
+
+Zip Code: 95823
+PE
+
+PR0036198
+
+Phone (916)681-7004
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: CHICKEN SANDWICH 122F IN HOT HOLDING UNIT.
+TORNADO 119F IN HOT HOLDING UNIT.
+CORN DOG 120F IN HOT HOLDING UNIT.
+EMPLOYEE REHEATED ITEM TO 165F.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to
+the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 33
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: SODA SYRUP BOX STORED ON THE FLOOR NEXT TO SODA SYRUP RACK. CORRECT IMMEDIATELY
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: PROBE THERMOMETER MEASURED 0F WHEN PLACED IN ICE AND WATER. SHOULD MEASURE 32F.
+CALIBRATED FOR OPERATOR.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available to
+the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their accuracy. A
+thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines. (114157,
+114159)
+
+# 44c
+
+MOP SINK AND JANITORIAL AREA
+
+OBSERVATIONS: MOPS FOUND DRYING IN THE MOP SINK BASIN. HANG DRY IMMEDIATELY.
+
+CODE DESCRIPTION: At least one janitorial sink equipped with hot and cold water and a drain shall be provided and conveniently located for
+the cleaning of mops or similar wet floor cleaning tools and for the disposal of mop water and similar liquid waste. A room, area, or cabinet
+separated from food preparation, food storage, or warewashing shall be provided for the storage of cleaning equipment and supplies. After
+use, mops shall be placed in a position that allows them to air-dry without soiling walls, equipment, or supplies. (114279, 114281, 114282)
+
+# 44d
+
+EMPLOYEE PERSONAL ITEMS
+
+OBSERVATIONS: PERSONAL JACKET STORED ON TOP OF CASES OF WATER IN BACK STORAGE AREA. STORE BELOW OR
+AWAY FROM FOOD PRODUCTS. CORRECT IMMEDIATELY
+
+CODE DESCRIPTION: No person shall store clothing or personal effects in any area used for the storage and preparation of food. Lockers or
+other suitable facilities shall be provided and used for the orderly storage of employee clothing and other possessions. Lockers or other
+suitable facilities shall be located in a designated room or area where contamination of food, equipment, utensils, and single-use articles
+cannot occur. (114256, 114256.1.)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: ELSIE CHEVRON
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+93.19
+
+FA0032357
+
+7:15 am
+
+Time Out:
+
+8:45 am
+
+Page:
+
+2 of 2
+
+SANJOG INVESTMENTS INC
+
+City: Sacramento
+
+Address: 7314 ELSIE AVE
+
+02/26/2016
+
+Time In:
+
+Phone (916)681-7004
+
+Zip Code: 95823
+PE
+
+Type of Inspection:
+
+PR0036198
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+ANIL SINGH
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+06/08/2017
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+123 º F
+
+Hand Sink Temp
+
+ppm
+101 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+CORN DOG / WALK IN COOLER / 41.00 ºF
+
+HOT DOG / HOT DOG ROLLER / 145.00 ºF
+
+MILK (SEALED) / SELF SERVICE COOLER / 44.00 ºF
+
+BOMB BURRITO / OPEN AIR COOLER / 41.00 ºF
+
+TAQUITO / HOT HOLDING UNIT / 150.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+ANIL SINGH / MANAGER
+
+C. Lee
+
+Phone: (916)875-8451
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

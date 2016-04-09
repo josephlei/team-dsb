@@ -1,0 +1,274 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: FOLSOM COURTYARD INN
+
+Permit Holder:
+
+CT
+
+FA
+85.07
+
+PR
+FA0018057
+
+8:25 am
+
+Time Out:
+
+9:56 am
+
+Page:
+
+1 of 2
+
+W2005/FARGO HOTELS (POOL C)
+
+City: Folsom
+
+Address: 2575 IRON POINT RD
+
+03/02/2016
+
+Time In:
+
+Zip Code: 95630
+PE
+
+PR0043295
+
+Phone (916)984-7624
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: 2% milk at 64 F in self service carafe. This item was discarded. Corrected.
+MINOR VIOLATION
+Both containers of sausage patties and prepared sandwich at 45 F, french toast batter at 46 F in 1 door reach in refrigerator under
+coffee maker.
+Skim milk at 43 F in self service carafe.
+Breakfast sandwiches at 43-44 F in cold drawer in bistro bar.
+Cut melon at 48 F in fruit cups in ice bath at bistro bar.
+Correct immediately.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+#6
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HANDWASHING FACILITIES
+
+OBSERVATIONS: Pot in hand sink closest to dry storage room in kitchen. Do not put utensils in sink or any items that obstructs use
+of hand sink. Corrected.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+
+# 14a
+
+FOOD CONTACT SURFACES CLEANED AND SANITIZED
+
+OBSERVATIONS: Scoop and spoon for oatmeal stored in 76 F water. If storage of multi use utensils in water is desired, water must
+be 41 F or below, or 135 F or above. Correct today. REPEAT VIOLATION
+
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each
+use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and
+potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred.
+Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Debris on floor under cooks line and prep line. Correct -1 day.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: FOLSOM COURTYARD INN
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+85.07
+
+FA0018057
+
+8:25 am
+
+Time Out:
+
+9:56 am
+
+Page:
+
+2 of 2
+
+W2005/FARGO HOTELS (POOL C)
+
+City: Folsom
+
+Address: 2575 IRON POINT RD
+
+03/02/2016
+
+Time In:
+
+Phone (916)984-7624
+
+Zip Code: 95630
+PE
+
+Type of Inspection:
+
+PR0043295
+
+Routine
+
+1621
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Tracy Kopshy
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+11/18/2020
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+136 º F
+
+Hand Sink Temp
+
+ppm
+116 º F
+
+Heat
+
+160 º F
+
+Iodine
+
+Wiping Cloth
+
+400
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+butter / walk in refrigerator / 40.00 ºF
+
+oatmeal / hot holding / 177.00 ºF
+
+cut melon / service area prep line / 42.00 ºF
+
+shell eggs / ice bath in kitchen / 37.00 ºF
+
+egg whites / ice bath in kitchen / 41.00 ºF
+
+cooked squash / cold drawer / 42.00 ºF
+
+NOTES
+
+Bar dishwasher is rarely used and had not been in use today. Maximum temperature was measured at 159 F after running several
+cycles.
+Ambient temperature of beverage display refrigerator at 45 F. The only potentially hazardous item in this refrigerator is prepackaged milk,
+which may be held at 45 F.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Suzanne Campanello / Frost Desk Supervisor
+
+S. Cardozo
+
+Phone: (916)876-8850
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

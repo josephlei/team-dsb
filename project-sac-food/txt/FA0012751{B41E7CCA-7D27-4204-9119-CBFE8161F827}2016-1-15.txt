@@ -1,0 +1,274 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SSP AMERICA
+
+Permit Holder:
+
+Address: 6850 AIRPORT BLVD
+
+City: Sacramento
+
+CT
+
+FA
+71.01
+
+PR
+FA0012751
+
+01/15/2016
+
+Time In:
+
+1:05 pm
+
+Time Out:
+
+2:35 pm
+
+Page:
+
+1 of 2
+
+SSP AMERICA SMF, LLC
+Zip Code: 95837
+PE
+
+PR0023807
+
+Phone (916)877-3530
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Measured beans on counter top steam unit between 122 F to 135 F. Management voluntarily discard product
+during inspection. 1 of 3 pans for counter top steam unit was missing and allowed for steam to escape.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 38
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: 1 of 2 sets of lights in kitchen are non-functional. Correct within 3 days.
+Lights in refrigeration units in bar are inoperable. Correct within 7 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Probe thermometer was not available. Provide within 7 days.
+No visible thermometer in 2-door upright refrigerator across mop sink.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Mop sink faucet has minor leak. Repair within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: Ceiling tile above steam table area in kitchen has been moved. Open ceiling is exposed. Correct within 24 hours.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 6850 AIRPORT BLVD
+
+City: Sacramento
+
+FA
+
+PR
+
+71.01
+
+FA0012751
+
+1:05 pm
+
+Time Out:
+
+2:35 pm
+
+Page:
+
+2 of 2
+
+SSP AMERICA SMF, LLC
+
+Facility Name: SSP AMERICA
+CT
+
+01/15/2016
+
+Time In:
+
+Phone (916)877-3530
+
+Zip Code: 95837
+PE
+
+Type of Inspection:
+
+PR0023807
+
+Routine
+
+1621
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+David DuJordan
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+122 º F
+
+09/23/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+122 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+eggs / counter top steam unit / 160.00 ºF
+
+ambient / refrigeration units / 39.00 ºF
+
+NOTES
+
+NOTE"
+-INSPECTION REPORT FOR LA TAQUERIA AND CANTINA.
+-This location used to be Sac Sports Bar. According to management, only change is business name and menu. Small walk-in
+cooler(was used for kegs) across mop sink was removed and 2 stand up refrigerators were provide . Will update EMD records.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Reginald Kendirck / Shift Supervisor
+
+A. Sharma
+
+Phone: (916)875-4842
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

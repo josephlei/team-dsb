@@ -1,0 +1,264 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: FOLSOM TAP HOUSE
+
+Permit Holder:
+
+CT
+
+FA
+85.01
+
+PR
+FA0029884
+
+1:18 pm
+
+Time Out:
+
+3:00 pm
+
+Page:
+
+1 of 2
+
+JEFF BACK
+
+City: Folsom
+
+Address: 25005 BLUE RAVINE RD 140
+
+02/04/2016
+
+Time In:
+
+Zip Code: 95630
+PE
+
+PR0054664
+
+Phone (916)292-5711
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1c
+
+FOOD HANDLER CARDS
+
+OBSERVATIONS: One food handler card is expired. Provide current food handler cards for all employees within 30 days.
+
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food
+Handler Card within 30 days after date of hire. (113948)
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Pasta and potatoes in stand alone refrigerator measured 44-46F.
+Pasta in salad cold top refrigerator measured 47F.
+Correct within 24 hours.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 14a
+
+FOOD CONTACT SURFACES CLEANED AND SANITIZED
+
+OBSERVATIONS: Observed dried food debris on can opener blade. Clean and sanitize immediately.
+
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each
+use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and
+potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred.
+Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Observed mold on racks in walk in refrigerator. Clean and sanitize within 48 hours.
+Observed food debris on floor under cold top refrigerators and stove. Clean within 48 hours.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: No probe thermometer available.
+No monitoring thermometer in reach in refrigerator.
+Provide within 7 days.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: FOLSOM TAP HOUSE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+85.01
+
+FA0029884
+
+1:18 pm
+
+Time Out:
+
+3:00 pm
+
+Page:
+
+2 of 2
+
+JEFF BACK
+
+City: Folsom
+
+Address: 25005 BLUE RAVINE RD 140
+
+02/04/2016
+
+Time In:
+
+Phone (916)292-5711
+
+Zip Code: 95630
+PE
+
+Type of Inspection:
+
+PR0054664
+
+Routine
+
+1621
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Sean Brennan
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+50 ppm
+
+Ware Sink Temp
+
+08/27/2018
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+127 º F
+
+Hand Sink Temp
+
+ppm
+103 º F
+
+Heat
+
+127 º F
+
+Iodine
+
+Wiping Cloth
+
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+pasta / cold top #2 / 41.00 ºF
+
+chicken / cold top / 41.00 ºF
+
+beef / walk in / 41.00 ºF
+
+egg / reach in / 40.00 ºF
+
+beans / steam table / 145.00 ºF
+
+pork / stand alone #2 / 41.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Stacey Belkin / PIC
+
+C. Dorrough
+
+Phone: (916)875-8426
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

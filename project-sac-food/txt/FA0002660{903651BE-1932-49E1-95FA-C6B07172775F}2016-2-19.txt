@@ -1,0 +1,281 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: PIZZA BELL
+
+Permit Holder:
+
+CT
+
+FA
+93.08
+
+PR
+FA0002660
+
+2:00 pm
+
+Time Out:
+
+3:15 pm
+
+Page:
+
+1 of 2
+
+PATRICIA L. COX
+
+City: Elk Grove
+
+Address: 8591 ELK GROVE BLVD
+
+02/19/2016
+
+Time In:
+
+Zip Code: 95624
+PE
+
+PR0002934
+
+Phone (916)685-1560
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: The automatic dish machine lacks adequate chlorine sanitizer residual during final rinse cycle, 0 ppm measured.
+Use of dish machine was not observed. Corrected; an empty bulk sanitizer bucket was replaced during inspection. Dish machine
+chlorine sanitizer residual measured 100 ppm after replacement.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Minor dust build-up is observed on fan guard inside the 2-door reach-in cooler. Clean within 2 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Minor rust and debris build-up is observed on metal food storage racks inside the walk-in refrigerator. Clean
+within 7 days. Storage racks must be replaced if they can longer be cleaned or repaired.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 36
+
+EQUIPMENT STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Pizza boxes are stored on the kitchen floor. Corrected.
+
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an
+approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be
+exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and
+food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean
+sanitized surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled,
+displayed, and dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely
+fastened to rigid structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3,
+114185.4, 114185.5)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: The upright pizza warmer is missing a thermometer. Provide within 3 days.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: PIZZA BELL
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+93.08
+
+FA0002660
+
+2:00 pm
+
+Time Out:
+
+3:15 pm
+
+Page:
+
+2 of 2
+
+PATRICIA L. COX
+
+City: Elk Grove
+
+Address: 8591 ELK GROVE BLVD
+
+02/19/2016
+
+Time In:
+
+Phone (916)685-1560
+
+Zip Code: 95624
+PE
+
+Type of Inspection:
+
+PR0002934
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+PATRICIA LEE COX
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+0
+
+ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+140 º F
+
+Hand Sink Temp
+
+ppm
+104 º F
+
+Heat
+
+127 º F
+
+05/26/2020
+Iodine
+
+Wiping Cloth
+
+400
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Raw sausage / Large cold top / 39.00 ºF
+
+Pizza / Upright warmer / 157.00 ºF
+
+Au jus / Warmer / 163.00 ºF
+
+Cooked chicken / Walk-in refrigerator / 39.00 ºF
+
+Cut tomatoes / 3-door reach-in cooler / 37.00 ºF
+
+Cheesy bread (twister) / 2-door reach-in cooler / 41.00 ºF
+
+Milk / Beverage reach-in cooler / 39.00 ºF
+
+Sliced ham / Small cold top / 37.00 ºF
+
+Pizza / Final cooking temperature / 200.00 ºF
+
+Pizza / Buffet hot hold / 135.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+PATRICIA / OWNER
+
+T. Yang
+
+Phone: (916)875-8437
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

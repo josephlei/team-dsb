@@ -1,0 +1,263 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SACRAMENTO AERIE NO 9 F O E
+
+Permit Holder:
+
+CT
+
+FA
+44.01
+
+PR
+FA0016755
+
+Zip Code: 95820
+PE
+
+PR0035020
+
+10:18 am
+
+Time Out:
+
+10:45 am
+
+Page:
+
+1 of 2
+
+SACRAMENTO AERIE NO 9 F O E
+
+City: Sacramento
+
+Address: 4401 FRUITRIDGE RD
+
+01/07/2016
+
+Time In:
+
+Phone (916)731-4427
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1c
+
+FOOD HANDLER CARDS
+
+OBSERVATIONS: Two employees did not have the California Food Handler Card. Correct within 30 days.
+
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food
+Handler Card within 30 days after date of hire. (113948)
+
+# 5a
+
+HANDWASHING PROCEDURES
+
+OBSERVATIONS: Observed employee wiping her hands on unclean apron. Don't wipe hands on apron, wash your hands when they
+get contaminated and use paper towels to dry hands. Correct immediately.
+
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after
+touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled
+equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw
+to ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate
+hands. (113952, 113953.3, 113953.4)
+
+# 14a
+
+FOOD CONTACT SURFACES CLEANED AND SANITIZED
+
+OBSERVATIONS: Observed old food debris and grease accumulation on table mount can-opener. Clean today.
+
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each
+use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and
+potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred.
+Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Observed old food debris with grease accumulation on all storage shelves at kitchen area. Clean today.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Lights in kitchen lacks shatter guards. Provide shatter guards or use shatter-resistant bulbs. Correct within 3
+days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SACRAMENTO AERIE NO 9 F O E
+CT
+
+FA
+
+PR
+
+44.01
+
+FA0016755
+
+10:18 am
+
+Time Out:
+
+10:45 am
+
+Page:
+
+2 of 2
+
+SACRAMENTO AERIE NO 9 F O E
+
+Permit Holder:
+City: Sacramento
+
+Address: 4401 FRUITRIDGE RD
+
+01/07/2016
+
+Time In:
+
+Phone (916)731-4427
+
+Zip Code: 95820
+PE
+
+Type of Inspection:
+
+PR0035020
+
+Routine
+
+1621
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: Observed unclean floor behind cooking equipments. Clean today.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Juan A Canales
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+129 º F
+
+08/10/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+105 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+eggs / 3 door upright refrigerator / 41.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Juan Canales / Manager
+
+S. Chhang
+
+Phone: (916)875-8463
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

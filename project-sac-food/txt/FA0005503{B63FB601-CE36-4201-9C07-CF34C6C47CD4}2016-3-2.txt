@@ -1,0 +1,373 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: KOREANA PLAZA MARKET
+
+Permit Holder:
+
+CT
+
+FA
+90.10
+
+PR
+FA0005503
+
+9:50 am
+
+Time Out:
+
+1:15 pm
+
+Page:
+
+1 of 3
+
+BYONG J YU
+
+City: Rancho Cordova
+
+Address: 10971 OLSON DR
+
+03/02/2016
+
+Time In:
+
+Zip Code: 95670
+
+PE
+PR0006659
+
+Phone (916)853-8000
+Type of Inspection:
+
+1614
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+OBSERVATIONS: Open roll of towels in men's restroom. Discontinue use of open rolls.
+Note: Approved dispenser was also stocked..
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Measured the following food item in the temperature danger zone: packaged, precooked veal sausage,
+frankfurters and pork ribs in SYS-30 at 43 to 49F; packaged chicken in SYS-A31 at 48F; packaged cod, salmon pieces in SYS-A24 at
+43 too 47F.
+Employee moved packaged items from SYS-30 to alternate refrigeration during inspection.
+Corrective actions:
+- Service and repair refrigeration to hold food cold at or below 41F.
+- Correct within 3 days
+- Repair SYS-30 before returning to service for storage of ready to eat food items.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 13
+
+FOOD IN GOOD CONDITION, SAFE, AND UNADULTERATED
+
+OBSERVATIONS: Found 24 cans of infent formula on sale floor with expiration dates in 10/2015 and 11/2015. Items removed from
+sale floor. Corrected.
+
+CODE DESCRIPTION: Employees shall not commit any act that may cause the contamination or adulteration of food or food contact
+surfaces. Food shall be produced, prepared, stored, transported, and served, so as to be free from adulteration and spoilage. Food is
+considered adulterated if it bears or contains any poisonous or deleterious substance that may render it impure or injurious to health.
+Containers previously used to store poisonous or toxic materials shall not be used to store food, utensils, or single-use articles. Utensils
+used for tasting shall be discarded or washed, rinsed, and sanitized between tastings. Ice used as a medium for cooling food and
+beverages shall not be offered for consumption. Food shall be inspected upon receipt and prior to any use, storage, or resale. (113967,
+113976, 113980, 113988, 113990, 114035, 114167, 114254.3)
+
+# 18
+
+HACCP REQUIREMENTS
+
+OBSERVATIONS: Facility vacuum packages precooked food items for resale. No HACCP plan approved by CA-DPH.
+Discontinue vacuum packaging food items until a HACCP plan has been reviewed and approved by CA-DPH. Handout provided.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: KOREANA PLAZA MARKET
+
+Permit Holder:
+
+CT
+
+FA
+90.10
+
+PR
+FA0005503
+
+Zip Code: 95670
+
+PE
+PR0006659
+
+9:50 am
+
+Time Out:
+
+1:15 pm
+
+Page:
+
+2 of 3
+
+BYONG J YU
+
+City: Rancho Cordova
+
+Address: 10971 OLSON DR
+
+03/02/2016
+
+Time In:
+
+Phone (916)853-8000
+Type of Inspection:
+
+1614
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Food facilities may engage in any of the following activities only pursuant to an HACCP plan: smoking food as a
+method of preservation, curing food, using food additives or adding components such as vinegar as a method of preservation, operating a
+molluscan shellfish life support system display tank, or custom processing animals that are for personal use. Food facilities may engage in
+the following activities only pursuant to an HACCP plan that has been approved by the department (CDPH): using acidification or water
+activity to prevent the growth of Clostridium botulinum, packaging potentially hazardous food using a reduced-oxygen packaging method.
+(114419, 114419.1, 114419.2, 114419.3 114039.5, 114057, 114057.1)
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: Water from automatic faucet in men's restroom measured 114F, and from automatic faucet in women's restroom
+measured 78F.
+Service and repair to provide 100 to 108F water temperatures.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 36
+
+EQUIPMENT STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Cutting boards in produce department not in approved location - no overhead protection.. Corrected.
+
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an
+approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be
+exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and
+food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean
+sanitized surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled,
+displayed, and dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely
+fastened to rigid structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3,
+114185.4, 114185.5)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Dust on fan guards in grocery walk-in and in meat walk-in.
+Remove dust within 3 days and regularly.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 43
+
+RESTROOMS MAINTAINED, SUPPLIED, AND ACCESSIBLE
+
+OBSERVATIONS: Open roll of toilet paper on dispenser in men's restroom.
+Discontinue use of open rolls.
+Note: Dispenser stocked as approved.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: KOREANA PLAZA MARKET
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+90.10
+
+FA0005503
+
+9:50 am
+
+Time Out:
+
+1:15 pm
+
+Page:
+
+3 of 3
+
+BYONG J YU
+
+City: Rancho Cordova
+
+Address: 10971 OLSON DR
+
+03/02/2016
+
+Time In:
+
+Phone (916)853-8000
+
+Zip Code: 95670
+
+PE
+
+Type of Inspection:
+
+PR0006659
+
+Routine
+
+1614
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Toilet facilities shall be maintained and kept clean. Toilet rooms shall be separated by a well-fitting self-closing door.
+Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with
+local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments with more than 20,000 sq. ft.;
+establishments offering on-site consumption of food. (114250, 114250.1, 114276)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Hector A Hernandez
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+135 º F
+
+11/05/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+114 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+No Temperature Data Reported
+
+NOTES
+
+Notes:
+1.
+2. Inspection conducted between 9:50am and 11:30am. Report written and delivered after 12:00pm.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Chun Sun Park / Store Manager
+
+J. Bradshaw
+
+Phone: (916)876-8860
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,270 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAN JUAN UNIFIED FOOD SERVICE
+
+Permit Holder:
+
+CT
+
+FA
+76.02
+
+PR
+FA0016880
+
+Zip Code: 95608
+PE
+
+PR0035353
+
+7:26 am
+
+Time Out:
+
+9:04 am
+
+Page:
+
+1 of 2
+
+SAN JUAN UNIFIED SCHOOL DIST
+
+City: Carmichael
+
+Address: 3738 WALNUT AVE
+
+11/10/2015
+
+Time In:
+
+Phone (916)971-7026
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 27
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: Improper food storage:
+- raw shelled eggs were stored above apples and candies inside 2-door upright cooler located at cafeteria prep area. Corrected.
+- raw bacon stored on top of box with cookie dough inside walk-in freezer at warehouse.
+- raw shelled eggs stored above box with apples inside walk-in cooler at warehouse. Corrected.
+- raw Jimmy Dean pork sausage patties stored above ready-to-eat food inside 3-door freezer located at warehouse.
+Correct immediately. Proper food storage sticker was provided during inspection.
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 32a
+
+FOOD PRESENTATION AND LABELING
+
+OBSERVATIONS: Packaged pastries (bagels, muffins) observed on self-service counter lack labels. Provide labels on each package
+that include: common name of food, list of ingredients in descending order of predominance by weight, quantity, and name and place
+of business of the manufacturer, packer, or distributer. Correct within 7 days.
+
+CODE DESCRIPTION: Food offered for human consumption shall be honestly presented in a way that does not mislead or misinform the
+consumer. Food packaged in a food facility shall bear a label that complies with the labeling requirements prescribed by the Sherman Food,
+Drug, and Cosmetic Law which include: common name of the food, ingredients list, quantity of contents, name and address of
+manufacturer, nutritional information as specified in 21 C.F.R. (114087, 114088, 114089, 114089.1(a, b), 114090, 114093.1)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: - Unclean floor observed beneath freezer and cooler at cafeteria prep area. Clean and maintain clean within 5
+days.
+- Spider webs observed between 2-comp warewash sink at cafeteria. Cleaned during inspection.
+- Dust build up on fan guard inside 2-door True cooler at cafeteria. Cleaned during inspection.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: - Found hole in wall at the main warehouse behind canned food storage (near e-waste). Seal with approved
+material within 30 days.
+- Unapproved (perforated) ceiling panels observed above cafeteria food prep areas (above all coolers, warmer, freezer, warewash
+sink, ice makchine, soup warmer. Replace with approved ceiling panels that are smooth and easily washable.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAN JUAN UNIFIED FOOD SERVICE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+76.02
+
+FA0016880
+
+7:26 am
+
+Time Out:
+
+9:04 am
+
+Page:
+
+2 of 2
+
+SAN JUAN UNIFIED SCHOOL DIST
+
+City: Carmichael
+
+Address: 3738 WALNUT AVE
+
+11/10/2015
+
+Time In:
+
+Phone (916)971-7026
+
+Zip Code: 95608
+PE
+
+Type of Inspection:
+
+PR0035353
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Debbie Merrill
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+01/12/2017
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+136 º F
+
+Hand Sink Temp
+
+ppm
+102 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+sliced meats (ham, turkey) / cold top cooler - cafeteria / 35.00 ºF
+
+sliced cheese / walk-in cooler / 37.00 ºF
+
+pulled pork / reach-in cooler - cafeteria / 37.00 ºF
+
+ambient / warmer / 136.00 ºF
+
+sliced ham / 2-door True upright cooler - cafeteria / 37.00 ºF
+
+NOTES
+
+1. Program element covers the central food supply warehouse for the entire school district (Food service supervisor: Joseph Toledo "Jo")
+and the cafeteria inside the main administration building.
+2. Observed multiple unused equipment inside side warehouse area. Maintain equipment clean and organize to prevent vermin
+harborage.
+3. Found blackened chicken alfredo made by Retarain's inside 3-door freezer at warehouse that contained 1 gram of trans fat per serving.
+Per Debbie, twice a month they supply food to board meetings and it will be served during next meeting.
+4. Cafeteria serves breakfast 8-11am & lunch 11:30am-1:15pm.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Debbie Merrill / cafeteria manager
+
+E. Drobenyuk
+
+Phone: (916)875-1749
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

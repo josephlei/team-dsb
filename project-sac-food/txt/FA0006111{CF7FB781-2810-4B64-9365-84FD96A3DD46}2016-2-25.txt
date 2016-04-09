@@ -1,0 +1,283 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: EL POLLO LOCO
+
+Permit Holder:
+
+Address: 6353 STOCKTON BLVD
+
+City: Sacramento
+
+CT
+
+FA
+32.02
+
+PR
+FA0006111
+
+02/25/2016
+
+Time In:
+
+10:28 am
+
+Time Out:
+
+11:35 am
+
+Page:
+
+1 of 2
+
+NOR-CAL CHICKEN INC
+Zip Code: 95824
+PE
+
+PR0007726
+
+Phone (916)399-9101
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+MAJOR
+
+OBSERVATIONS: MAJOR- Maximum hot water temperature at ware wash sink faucet was 58F. Per employee, water heater was
+recently repaired and was turned on just minutes before inspection started. This violations has been mitigated as water temperature
+was measured to be above 100F but less than 120F. Ensure hot water at ware wash sink faucet reaches 120F.
+Minor Violation:
+Maximum water temperature at hand wash station was 58F. Provide warm water between 100-108F. Corrected at time of inspection.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 1c
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+FOOD HANDLER CARDS
+
+OBSERVATIONS: One expired food handler card. Renew within 15 days. REPEAT VIOLATION.
+
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food
+Handler Card within 30 days after date of hire. (113948)
+
+#6
+
+HANDWASHING FACILITIES
+
+OBSERVATIONS: Ware wash area hand wash station is draining very slowly. Ensure water drains quickly. Correct today.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Found gaps in between hood filters on both hood systems. Eliminate gaps within 24 hours. 2ND REPEAT
+VIOLATION.
+Due to numerous REPEAT VIOLATIONS, proof of correction is required. Send proof such as pictures or a work order to email:
+estradam2@saccounty.net within the time frame stated above. Failure to submit proof will result in a re inspection which is billed at
+$268.00.
+Light bulb inside the Victory branded reach in freezer is non operational. Replace bulb within 2 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 6353 STOCKTON BLVD
+
+City: Sacramento
+
+FA
+
+PR
+
+32.02
+
+FA0006111
+
+10:28 am
+
+Time Out:
+
+11:35 am
+
+Page:
+
+2 of 2
+
+NOR-CAL CHICKEN INC
+
+Facility Name: EL POLLO LOCO
+CT
+
+02/25/2016
+
+Time In:
+
+Phone (916)399-9101
+
+Zip Code: 95824
+PE
+
+Type of Inspection:
+
+PR0007726
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 43
+
+RESTROOMS MAINTAINED, SUPPLIED, AND ACCESSIBLE
+
+OBSERVATIONS: Loose rolls of toilet paper inside womens restroom. Keep toilet tissue in dispenser at all times. Correct now.
+
+CODE DESCRIPTION: Toilet facilities shall be maintained and kept clean. Toilet rooms shall be separated by a well-fitting self-closing door.
+Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with
+local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments with more than 20,000 sq. ft.;
+establishments offering on-site consumption of food. (114250, 114250.1, 114276)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Jessica Becerra
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Quaternary Ammonia (QA)
+
+Ware Sink Temp
+
+58 º F
+
+10/28/2019
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+58 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+300
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Mac/Cheese / TWE Warmer in front of gas grill / 156.00 ºF
+
+Shredded Cheese / Main Cold Top Preparation Table / 41.00 ºF
+
+Spanish Rice / Front Area Steam Table / 177.00 ºF
+
+Shredded Cheese / Refrigerated Drawer / 41.00 ºF
+
+Chicken / Final Cooking Temperature / 178.00 ºF
+
+Diced Chicken / Main Steam Table / 181.00 ºF
+
+Spanish Rice / TWE Warmer by office / 146.00 ºF
+
+NOTES
+
+Post current health permit in conspicuous location.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Marcello Gonzalez / Store Manager
+
+M. Estrada Jr.
+
+Phone: (916)875-8553
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

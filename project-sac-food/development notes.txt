@@ -1,0 +1,64 @@
+*wget with wait command, we used shell .sh sleep command instead for the time being -O is the abbrev. of --output-document hard pipe option;
+wget -w 3 -i filenamehere
+--output-document=
+
+*wget shell script implement w/o sleep timer, hard pipes into file1.pdf, etc. to avoid missing extension issues;
+wget -O file1.pdf https://emdinspections.saccounty.net/document.aspx?id={DD878831-3A38-47CB-A3AE-C8F1BE20A0BD}&type=application/pdf
+wget -O file2.pdf https://emdinspections.saccounty.net/document.aspx?id={04920555-CFD2-4B8F-A12B-678F02224E33}&type=application/pdf
+
+*loop pdftotext on every file, output into filename itself + .txt extension;
+for file in *.pdf; do pdftotext "$file" "$file.txt"; done
+
+*modified version to work with our file since the above line was doing xyz.pdf.txt instead of just xyz.txt;
+for file in *.pdf; do pdftotext "$file"; done
+
+wget -c -w 3 -i list
+
+wget -c -w 3 --trust-server-names -i list
+
+
+
+
+
+*the below line uses regular expressions to key in on lines starting with hashtag/pound sign, which are the violations;
+*prelim to using grep on every single text file and pipe + appending for a master list of violations, building up to .csv file;
+	grep -n '#' FA0001004.txt
+
+potentials (YES, TESTED AND THEY WORK!)
+	-H to add filename(s) to output
+	>> to redirect append instead of clobber overwrite
+
+*mod to loop all files, no .sh needed; not working, dis-regard temporarily;
+	for file in *.txt; do grep -nH '#' "$file" >> test.txt; done
+
+*removed n for line #;
+	"grep -H '# \d' FA0001006.txt >> test.txt” 
+
+
+One solution: 
+	rm violations
+	grep -rni "#" * >> violations
+
+MAKE DARN SURE YOU RM THE VIOLATIONS FILE BEFORE, RECURSION WILL BLOW YOUR COMPUTER UP.. further research needed.. temporary solution reached
+
+newer better solution:
+	ls *.txt | xargs -n1 grep '#' > ../test.txt
+	find . | xargs -n1 grep -H '# \d' > ../violations_new.txt #this works when ls * limits out
+
+to get specialist info:
+	egrep "Specialist:" -A4
+	ls *.txt | xargs -n1 egrep "Specialist:" -A4 > ../specialist.txt
+
+specialist:(.*\n){5}
+
+
+*count files in DIR_NAME, recursively;
+	find DIR_NAME -type f | wc -l
+	find ~/sac-food -type f | wc -l
+
+use nohup to run headless
+
+
+
+git checkout switches branch 
+git branch -d branchname deletes branch, warning if not fully merged

@@ -1,0 +1,269 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MCDONALD'S OF LAGUNA CREEK
+
+Permit Holder:
+
+CT
+
+FA
+96.38
+
+PR
+FA0048273
+
+Zip Code: 95758
+PE
+
+PR0103119
+
+9:10 am
+
+Time Out:
+
+10:20 am
+
+Page:
+
+1 of 2
+
+S&C RAMIREZ ENTERPRISES INC
+
+City: Elk Grove
+
+Address: 10051 BRUCEVILLE RD
+
+02/26/2016
+
+Time In:
+
+Phone
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 5b
+
+BARE HAND CONTACT AND GLOVE USE
+
+OBSERVATIONS: OBSERVED EMPLOYEE WITH GLOVED HANDS WIPING DOWN THE COUNTER AND GRILL TOP, THEN PROCEED
+TO THE FOOD PREP STATION TO UNWRAP THE PAPER OFF THE COOKED SANDWICH, INTERVENED, ASKED EMPLOYEE TO
+STOP AND PUT THE WRAPPED FOOD ITEM DOWN, THEN PROVIDED INSTRUCTION TO EMPLOYEE FOR GLOVE CHANGING AND
+HANDWASHING BETWEEN TASKS. CORRECTED DURING INSPECTION
+
+CODE DESCRIPTION: Employees shall minimize bare hand contact with nonprepackaged ready-to-eat food. Single-use gloves shall be
+used for only one task and shall be discarded when damaged or soiled, or when interruptions in the food handling occur. Gloves shall be
+changed as often as handwashing is required. Slash-resistant gloves may be used with ready-to-eat food if the gloves have a smooth,
+durable, nonabsorbent surface, or are covered with a single-use glove. (113961, 113973 (b,c,e))
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: SLICED TOMATO/REFRIGERATOR #2/47 DEGREES F; SHREDDED CHEESE/REFRIGERATOR #2/48 DEGREES F.
+IMPROPER COLD HOLDING TEMPERATURES. PER DIRECTION OF SUPERVISOR ALL POTENTIALLY HAZARDOUS FOODS WERE
+MOVED TO ANOTHER REFRIGERATOR.
+NOTE: SEE ITEM #35
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 27
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: OBSERVED ICE SCOOP WITH HANDLE BURRIED IN THE ICE INSIDE THE ICE MACHINE. IMPROPER STORAGE
+OF ICE SCOOP. SUPERVISOR CORRECTED DURING INSPECTION.
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: AMBIENT TEMPERATURE OF REFRIGERATOR #2 MEASURING AT 47 DEGREES F. THIS UNIT IS UNABLE TO
+MAINTAIN POTENTIALLY HAZARDOUS FOODS AT 41 DEGREES F AND BELOW. REPAIR WITHIN 24 HOURS.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MCDONALD'S OF LAGUNA CREEK
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+96.38
+
+FA0048273
+
+9:10 am
+
+Time Out:
+
+10:20 am
+
+Page:
+
+2 of 2
+
+S&C RAMIREZ ENTERPRISES INC
+
+City: Elk Grove
+
+Address: 10051 BRUCEVILLE RD
+
+02/26/2016
+
+Time In:
+
+Phone
+
+Zip Code: 95758
+PE
+
+Type of Inspection:
+
+PR0103119
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+ROSA SIERRA YEPEZ
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+130 º F
+
+10/20/2018
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+112 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+EGG WHITE / HOT HOLDING TRAY / 150.00 ºF
+
+MILK / FRONT REACH IN REFRIGERATOR / 41.00 ºF
+
+SAUSAGE PATTY / HOT HOLDING TRAY / 160.00 ºF
+
+RAW SHELL EGGS / WALK IN REFRIGERATOR / 35.00 ºF
+
+MILK / WALK IN REFRIGERATOR / 35.00 ºF
+
+AMBIENT / REFRIGERATOR#1 / 41.00 ºF
+
+AMBIENT / FRONT REACH IN REFRIGERATOR / 40.00 ºF
+
+RAW SHELL EGG / REFRIGERATOR #1 / 41.00 ºF
+
+CHEESE / WALK IN REFRIGERATOR / 34.00 ºF
+
+MILK / MCCAFE REFRIGERATOR / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+HARSHANA CHANDRA / MANAGER
+
+M. Oetzel
+
+Phone: (916)875-8434
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

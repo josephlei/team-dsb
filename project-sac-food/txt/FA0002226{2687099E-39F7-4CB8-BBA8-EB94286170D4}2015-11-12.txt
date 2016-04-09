@@ -1,0 +1,270 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MILLS MIDDLE SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+89.13
+
+PR
+FA0002226
+
+Zip Code: 95670
+
+PE
+PR0005848
+
+9:45 am
+
+Time Out:
+
+11:00 am
+
+Page:
+
+1 of 2
+
+FOLSOM CORDOVA SCHOOL DISTRICT
+
+City: Rancho Cordova
+
+Address: 10439 COLOMA RD
+
+11/12/2015
+
+Time In:
+
+Phone (916)363-1682
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#8
+
+TIME AS A PUBLIC HEALTH CONTROL
+
+OBSERVATIONS: Time stamps were not provided for the hamburger and cheese bowl. Per employee, they should have been
+stamped at 9:30am. Product held in hot holding unit at 135F in hot holding unit. Education provided about TPHC. Corrected at the
+time of inspection.
+
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be
+marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within
+the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was
+used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000)
+
+# 5a
+
+HANDWASHING PROCEDURES
+
+OBSERVATIONS: Employee handled dirty dishes and proceeded to handle clean dishes without hand washing. Education provided.
+Employee washed hands at the time of inspection.
+NOTE: Inspector intervened prior to contamination
+
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after
+touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled
+equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw
+to ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate
+hands. (113952, 113953.3, 113953.4)
+
+# 13
+
+FOOD IN GOOD CONDITION, SAFE, AND UNADULTERATED
+
+OBSERVATIONS: One dented can of pears on dry storage shelf. Product was removed from shelf at the time of inspection.
+Corrected.
+
+CODE DESCRIPTION: Employees shall not commit any act that may cause the contamination or adulteration of food or food contact
+surfaces. Food shall be produced, prepared, stored, transported, and served, so as to be free from adulteration and spoilage. Food is
+considered adulterated if it bears or contains any poisonous or deleterious substance that may render it impure or injurious to health.
+Containers previously used to store poisonous or toxic materials shall not be used to store food, utensils, or single-use articles. Utensils
+used for tasting shall be discarded or washed, rinsed, and sanitized between tastings. Ice used as a medium for cooling food and
+beverages shall not be offered for consumption. Food shall be inspected upon receipt and prior to any use, storage, or resale. (113967,
+113976, 113980, 113988, 113990, 114035, 114167, 114254.3)
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+OBSERVATIONS: One bottle of clear liquid stored in utility cabinet above prep sink lacks label. Label within 24 hours.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination
+of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food
+facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall
+be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MILLS MIDDLE SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+89.13
+
+FA0002226
+
+9:45 am
+
+Time Out:
+
+11:00 am
+
+Page:
+
+2 of 2
+
+FOLSOM CORDOVA SCHOOL DISTRICT
+
+City: Rancho Cordova
+
+Address: 10439 COLOMA RD
+
+11/12/2015
+
+Time In:
+
+Phone (916)363-1682
+
+Zip Code: 95670
+
+PE
+
+Type of Inspection:
+
+PR0005848
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OBSERVATIONS: Dust accumulation observed on the light fixtures at the cook's line. Clean within 30 days.
+Mold like accumulation observed on the gaskets of the walk in cooler. Clean within 30 days.
+NOTE: Janitorial comes in an deep cleans facility during break.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Lesley F Thompson
+
+Name on Food Safety Certificate
+Warewash
+
+ppm
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+122 º F
+
+400
+
+Hand Sink Temp
+
+ppm
+
+100 º F
+
+Heat
+
+165 º F
+
+Wiping Cloth
+
+12/18/2019
+Iodine
+400
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Deli sandwich / Deli merchandiser / 40.00 ºF
+
+Hamburger / Warming unit (TPHC) / 135.00 ºF
+
+Cheese bowl / Warming unit (TPHC) / 135.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Lesley Thompson / Foodservice manager
+
+K. Fry
+
+Phone: (916)875-8445
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,263 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: DICKEY'S BARBEQUE PIT
+
+Permit Holder:
+
+CT
+
+FA
+71.03
+
+PR
+FA0040398
+
+Zip Code: 95835
+PE
+
+PR0077125
+
+3:00 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+1 of 2
+
+JARED KATZENBARGER
+
+City: Sacramento
+
+Address: 4630 NATOMAS BLVD 130
+
+12/14/2015
+
+Time In:
+
+Phone (916)546-4399
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Quaternary ammonia (QA) sanitizer in 3-compartment sink measured at 0 ppm. Sanitizer compartment was just
+filled and food equipment was inside solution. Sanitizer container under sink was nearly empty. Air bubble noted in sanitizer
+supply line. Staff replaced sanitizer container and also manually dosed sanitizer to achieve 200 ppm QA. Ensure sanitizer
+dispenser is properly functioning.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least 100F
+or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact with
+solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in the final
+rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After cleaning and
+sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101 (b-d), 114105,
+114109, 114111)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 38
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Deep fryer extends outside of hood. Ensure hood has a 6 inch overhang above all cooking equipment. Correct
+within 48 hours.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient ventilation
+to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or light-switch
+activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in areas where open
+food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with light shields. (114149,
+114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Lids to community shared dumpster found open. Keep closed.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be kept
+in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at all
+times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and other
+conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: DICKEY'S BARBEQUE PIT
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+71.03
+
+FA0040398
+
+3:00 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+2 of 2
+
+JARED KATZENBARGER
+
+City: Sacramento
+
+Address: 4630 NATOMAS BLVD 130
+
+12/14/2015
+
+Time In:
+
+Phone (916)546-4399
+
+Zip Code: 95835
+PE
+
+Type of Inspection:
+
+PR0077125
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Jesus Jimenez
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+11/12/2018
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+
+0
+
+140 º F
+
+140 º F
+
+Hand Sink Temp
+
+ppm
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+raw beef / walk-in cooler / 40.00 ºF
+
+chicken / altoshaam / 155.00 ºF
+
+ambient / prep cooler / 40.00 ºF
+
+brisket / altoshaam / 160.00 ºF
+
+ham / walk-in cooler / 40.00 ºF
+
+beans / steam table / 154.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Jesus Jimenez / Manager
+
+A. Sharma
+
+Phone: (916)875-4842
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

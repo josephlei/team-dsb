@@ -1,0 +1,257 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SWEET FACTORY
+
+Permit Holder:
+
+CT
+
+FA
+55.02
+
+PR
+FA0001496
+
+Zip Code: 95815
+PE
+
+PR0007388
+
+4:20 pm
+
+Time Out:
+
+4:45 pm
+
+Page:
+
+1 of 2
+
+SWEET CANDY LLC
+
+City: Sacramento
+
+Address: 1689 ARDEN WAY STE 2126
+
+10/16/2015
+
+Time In:
+
+Phone (916)929-5133
+Type of Inspection:
+
+1612
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 31
+
+CONSUMER SELF-SERVICE OPERATIONS
+
+OBSERVATIONS: Tongs and scoop handles in the self serve areas are in contact with the food items due to an overfilled container.
+Modify storage of tongs/scoops or do not overfill the containers so the handles do not come in contact with the food. Correct
+immediately.
+
+CODE DESCRIPTION: Raw, non-prepackaged food of animal origin, such as beef, lamb, pork, poultry, and eviscerated fish, shall not be
+offered for consumer self-service. Consumer self-service operations for ready-to-eat foods such as buffets and salad bars shall be provided
+with a suitable food dispensing utensil for each container displayed or effective dispensing methods that protect the food from contamination.
+Except for drinking cups, food employees and consumers shall not be allowed to use soiled tableware, including single-use articles, to obtain
+additional food from the display and servicing equipment. Consumer self-service bulk beverages shall be dispensed in approved manner.
+(114063 (a,d), 114065, 114075)
+
+# 34
+
+WAREWASHING FACILITIES AND TESTING METHODS
+
+OBSERVATIONS: Chlorine based sanitizer and quat ammonia strips on hand. Provide sanitizer with the corresponding test strips
+within 7 days.
+
+CODE DESCRIPTION: Facilities that prepare food shall be equipped with a manual warewashing sink that has at least three compartments
+with two integral metal drainboards. A two compartment sink that was installed before January 1, 1996, need not be replaced when used in
+approved manner. Sink compartments shall be large enough to accommodate immersion of the largest equipment and utensils used. Testing
+materials shall be provided to adequately measure the applicable sanitization method used during manual or mechanical warewashing.
+(113984(e), 114067(f,g), 114099, 114099.3, 114099.5, 114101(a), 114101.1, 114101.2, 114103, 114107, 114125)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Domestic grade equipment for employee use are lacking labels identifying these equipment are only "For
+employee use". Correct within 7 days.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods
+shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and
+scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3,
+114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: 3-comp sink was shut off due to a leak in the piping under the middle compartment. Repair to eliminate leask
+within 14 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+# 47c
+
+INSPECTION REPORT AVAILABILITY
+
+OBSERVATIONS: Copy of the last routine inspection report could not be located at the time of inspection. Correct immediately.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SWEET FACTORY
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+55.02
+
+FA0001496
+
+4:20 pm
+
+Time Out:
+
+4:45 pm
+
+Page:
+
+2 of 2
+
+SWEET CANDY LLC
+
+City: Sacramento
+
+Address: 1689 ARDEN WAY STE 2126
+
+10/16/2015
+
+Time In:
+
+Phone (916)929-5133
+
+Zip Code: 95815
+PE
+
+Type of Inspection:
+
+PR0007388
+
+Routine
+
+1612
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: A copy of the most recent routine inspection report conducted to assess compliance with this part shall be maintained
+at the food facility and made available upon request. The food facility shall post a notice advising consumers that a copy of the most recent
+routine inspection report is available for review by any interested party. (113725.1)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+Expiration Date
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+ºF
+
+Hand Sink Temp
+
+ppm
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+ºF
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+No Temperature Data Reported
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Ayla Razo / Staff
+
+D. Catanyag
+
+Phone: (916)875-8431
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

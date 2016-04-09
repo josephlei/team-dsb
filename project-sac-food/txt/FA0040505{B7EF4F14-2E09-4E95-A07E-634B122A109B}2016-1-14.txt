@@ -1,0 +1,265 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CUPCAKE CRAVINGS
+
+Permit Holder:
+
+CT
+
+FA
+55.06
+
+PR
+FA0040505
+
+Zip Code: 95825
+PE
+
+PR0077454
+
+2:20 pm
+
+Time Out:
+
+4:30 pm
+
+Page:
+
+1 of 2
+
+JEG ENTERPRISES LLC
+
+City: Sacramento
+
+Address: 2100 ARDEN WAY 169
+
+01/14/2016
+
+Time In:
+
+Phone (916)923-5995
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#4
+
+EATING, DRINKING, OR TOBACCO USE
+
+OBSERVATIONS: Observed employee beverage with screw-top lid stored on prep table. Provide a lid/straw and store below/away
+from food and food related items (screw-top lids are not approved). Correct today.
+
+CODE DESCRIPTION: Employees shall not eat, drink, or use tobacco in any area where contamination of food, clean equipment and
+utensils, linens, and single use articles may occur. Employees may drink from closed beverage container if the container is handled to prevent
+contamination of the employee's hands, the container, nonprepackaged food, and food-contact surfaces. Area designated for employees to
+eat and drink shall be located so that food, clean equipment and utensils, linens, and single-use articles are protected from contamination.
+(113977, 114256 (a))
+
+# 5a
+
+HANDWASHING PROCEDURES
+
+OBSERVATIONS: Observed employee dry hands with cloth towel and place on prep table after washing utensils. Wash hands
+whenever contaminated and use single use paper towels to dry hands. Corrected.
+
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after
+touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled
+equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw to
+ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate hands.
+(113952, 113953.3, 113953.4)
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+OBSERVATIONS: Bottle of dish soap lacks label. Provide within 7 days.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination of
+food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food facility
+may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall be
+clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 30b
+
+FOOD CONTAINERS LABELED
+
+OBSERVATIONS: Spray bottle of water hanging on wire rack next to 3-door reach-in lacks a label. Corrected.
+
+CODE DESCRIPTION: Containers holding food or food ingredients that are removed from their original packaging shall be identified with the
+common name of the food. (114051)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Wiping cloth without sanitizer stored on prep counter. Keep stored inside sanitizer solution when not in use.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CUPCAKE CRAVINGS
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+55.06
+
+FA0040505
+
+2:20 pm
+
+Time Out:
+
+4:30 pm
+
+Page:
+
+2 of 2
+
+JEG ENTERPRISES LLC
+
+City: Sacramento
+
+Address: 2100 ARDEN WAY 169
+
+01/14/2016
+
+Time In:
+
+Phone (916)923-5995
+
+Zip Code: 95825
+PE
+
+Type of Inspection:
+
+PR0077454
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+David Cisneros
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+10/27/2020
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+134 º F
+
+Hand Sink Temp
+
+500
+
+ppm
+
+118 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+500
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+whole milk / 3-door reach-in cooler / 35.00 ºF
+
+NOTES
+
+Facility is using White Spred 'N Fill Icing which contains hydrogenated cottonseed oil. According to nutritional facts provided by
+manufacturer, ingredient contains 0.88 grams trans fatty acid per 100 grams of product. Each cupcake (serving size) contains
+approximately 1.5 oz of product, which contains approximately 0.37 grams of trans fat. This is in compliance with Cal Code section
+114377, which limits trans fat to no more than 0.5 grams per serving.
+NOTE: Facility is using ChemMark Klor 300 sanitizer with active ingredient of 6% sodium hypochlorite (chlorine based). When testing
+concentration, solution tests negative for chlorine but positive for quaternary ammonia. Contact manufacturer to find out why this is
+happening. The incorrect chemical may have been placed inside container from the manufacturer. Provide quaternary ammonia test strips
+in the mean time and keep sanitizer at a minimum of 200 ppm QA.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Denise Campaz / Baker
+
+S. LePage
+
+Phone: (916)875-8449
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

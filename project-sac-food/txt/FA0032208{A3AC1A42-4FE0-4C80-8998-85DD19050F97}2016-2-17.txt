@@ -1,0 +1,276 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: COOPERS COFFEE HOUSE
+
+Permit Holder:
+
+CT
+
+FA
+85.04
+
+PR
+FA0032208
+
+1:15 pm
+
+Time Out:
+
+2:31 pm
+
+Page:
+
+1 of 2
+
+MICHAEL COOPER
+
+City: Folsom
+
+Address: 189 BLUE RAVINE RD 130
+
+02/17/2016
+
+Time In:
+
+Zip Code: 95630
+
+Phone (916)207-2573
+
+PE
+PR0058710
+
+Type of Inspection:
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1c
+
+FOOD HANDLER CARDS
+
+OBSERVATIONS: Current food handler cards not available for two employees. Correct - 15 days. REPEAT VIOLATION
+
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food
+Handler Card within 30 days after date of hire. (113948)
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: cream cheese at 46 F, sliced cheese at 47 F, liquid egg white at 44 F in prep line.
+Breakfast burrito at 49 F, veggie breakfast burrito at 46 F, spinach and feta croissant at 45 F in display refrigerator.
+Correct immediately.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 31
+
+CONSUMER SELF-SERVICE OPERATIONS
+
+OBSERVATIONS: Wrapped pastries available for self service lack proper labelling. Provide labelling with facility information,
+common name and ingredients in descending order by weight or remove from customer self service. Correct - 3 days.
+
+CODE DESCRIPTION: Raw, non-prepackaged food of animal origin, such as beef, lamb, pork, poultry, and eviscerated fish, shall not be
+offered for consumer self-service. Consumer self-service operations for ready-to-eat foods such as buffets and salad bars shall be provided
+with a suitable food dispensing utensil for each container displayed or effective dispensing methods that protect the food from
+contamination. Except for drinking cups, food employees and consumers shall not be allowed to use soiled tableware, including single-use
+articles, to obtain additional food from the display and servicing equipment. Consumer self-service bulk beverages shall be dispensed in
+approved manner. (114063 (a,d), 114065, 114075)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Debris in interior of cold display case. Clean and maintain more regularly - 1 day.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Thermometer in 1 door reach in refrigerator by blenders is not functioning properly. Correct - 3 days.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: COOPERS COFFEE HOUSE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+85.04
+
+FA0032208
+
+1:15 pm
+
+Time Out:
+
+2:31 pm
+
+Page:
+
+2 of 2
+
+MICHAEL COOPER
+
+City: Folsom
+
+Address: 189 BLUE RAVINE RD 130
+
+02/17/2016
+
+Time In:
+
+Phone (916)207-2573
+
+Zip Code: 95630
+PE
+
+Type of Inspection:
+
+PR0058710
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Lids of shared dumpster open when not in use. Maintain closed.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be
+kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at
+all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and
+other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Stacy Baade
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+05/21/2018
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+136 º F
+
+Hand Sink Temp
+
+ppm
+103 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+nonfat milk / self service bar / 34.00 ºF
+
+whole milk / self service bar / 35.00 ºF
+
+half and half / self service bar / 41.00 ºF
+
+non fat toddy / 1 door reach in refrigerator by blenders / 42.00 ºF
+
+milk / 2 door upright reach in refrigerator / 38.00 ºF
+
+NOTES
+
+Note: - Ware washing not observed.
+-Multi use dog bowls observed under hand sink nearest espresso machines. Food or water provided to pet dogs must be provided in
+single use containers.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+David Harris / Shift Leader
+
+S. Cardozo
+
+Phone: (916)876-8850
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

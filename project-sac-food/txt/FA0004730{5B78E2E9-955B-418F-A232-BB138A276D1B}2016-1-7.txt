@@ -1,0 +1,254 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: WILL C WOOD JR HIGH SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+32.02
+
+PR
+FA0004730
+
+Zip Code: 95824
+PE
+
+PR0007215
+
+10:52 am
+
+Time Out:
+
+11:50 am
+
+Page:
+
+1 of 2
+
+SACRAMENTO CITY UNIFIED SCHOOL
+
+City: Sacramento
+
+Address: 6201 LEMON HILL AVE
+
+01/07/2016
+
+Time In:
+
+Phone (916)382-5900
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14a
+
+FOOD CONTACT SURFACES CLEANED AND SANITIZED
+
+OBSERVATIONS: Slight food residue build up observed on meat slicer. Corrected at time of inspection.
+
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each
+use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and
+potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred.
+Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Sanitizer concentration at ware wash sink measured at 150ppm quat. ammonia. Maintain at 200ppm quat.
+ammonia. Correct now.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Condensation leak observed on cooling unit of walk in cooler. Do not store any food items below condensation
+leak. Repair within 30 days.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Sanitizer concentration at wiping towel container measured at 0ppm quat. ammonia. Correct now. REPEAT
+VIOLATION
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: WILL C WOOD JR HIGH SCHOOL
+CT
+
+FA
+
+PR
+
+32.02
+
+FA0004730
+
+10:52 am
+
+Time Out:
+
+11:50 am
+
+Page:
+
+2 of 2
+
+SACRAMENTO CITY UNIFIED SCHOOL
+
+Permit Holder:
+City: Sacramento
+
+Address: 6201 LEMON HILL AVE
+
+01/07/2016
+
+Time In:
+
+Phone (916)382-5900
+
+Zip Code: 95824
+PE
+
+Type of Inspection:
+
+PR0007215
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Barbara Rucier Repp
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+120 º F
+
+11/09/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+150
+
+ppm
+
+100 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+0
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Chicken Patty (Precooked) / Walk in Cooler / 31.00 ºF
+
+Milk (Sealed) / Order Area Beverage Air Refrigerator / 41.00 ºF
+
+Chicken in Wrap / True Double Door Reach in Refrigerator / 40.00 ºF
+
+Milk (Sealed) / Beverage Air Unit by Ware wash area / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Barbara Rucier Repp / Person in Charge
+
+M. Estrada Jr.
+
+Phone: (916)875-8553
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,262 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CALIFORNIA MIDDLE SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+24.00
+
+PR
+FA0006533
+
+8:00 am
+
+Time Out:
+
+8:45 am
+
+Page:
+
+1 of 2
+
+SACRAMENTO CITY UNIFIED SCHOOL
+
+City: Sacramento
+
+Address: 1600 VALLEJO WAY
+
+10/05/2015
+
+Time In:
+
+Zip Code: 95818
+PE
+
+PR0007238
+
+Phone (916)553-4550
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1b
+
+FOOD SAFETY CERTIFICATION
+
+OBSERVATIONS: Missing food safety certificate. Correct in 60 days.
+
+CODE DESCRIPTION: Food facilities that prepare, handle, or serve non-prepackaged potentially hazardous food, shall have an employee
+who has passed an approved food safety certification examination. (113947.1)
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: Hot water at 2 comp sink for manual dish washing at 106F. Keep at 120F or more. Correct today
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Lights inoperable inside the following units:
+-6 door freezer near back door
+-inside stand up freezer to the right of the 3 that are standing side by side.
+-6 door refrigeration near the service line with glass doors.
+Correct in 7 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Lack air gap between prep sink and floor sink. Repeat of this violation on the next routine will result in a
+reinspection or a fee of $268. Correct in 1 day
+3rd REPEAT VIOLATION
+Lack air gap between blue filter line and floor sink near Cleveland steamer. Correct in 1 day
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CALIFORNIA MIDDLE SCHOOL
+CT
+
+FA
+FA0006533
+
+8:45 am
+
+Page:
+
+2 of 2
+
+Phone (916)553-4550
+
+Zip Code: 95818
+
+PR
+
+24.00
+
+8:00 am
+
+Time Out:
+
+SACRAMENTO CITY UNIFIED SCHOOL
+
+Permit Holder:
+City: Sacramento
+
+Address: 1600 VALLEJO WAY
+
+10/05/2015
+
+Time In:
+
+PE
+
+Type of Inspection:
+
+PR0007238
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 47a
+
+SIGNS POSTED AS REQUIRED
+
+OBSERVATIONS: Missing hand washing stickers inside restrooms for staff. Corrected
+
+CODE DESCRIPTION: Handwashing signs directing employees to wash hands after using the restroom shall be posted in each toilet room
+used by food employees. No smoking signs shall be posted in food preparation, food storage, warewashing, and utensil storage areas.
+Food facilities constructed without a public toilet prior January 1, 2004, shall post a sign in a prominant area within the food facility, stating
+that toilet facilities are not provided. (113953.5, 113978, 114276 (f)).
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+missing
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+
+Ware Sink Temp
+
+106 º F
+
+Hand Sink Temp
+
+ppm
+104 º F
+
+Heat
+
+164 º F
+
+Iodine
+
+Wiping Cloth
+
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+milk / stand up refrigerator ambient air / 38.00 ºF
+
+beans / cooler / 40.00 ºF
+
+NOTES
+
+NOTE: Wash and thaw only at the prep sink with indirect connection. Provided thawing sticker as a reminder.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Dori Farley / FSM
+
+M. Singh
+
+Phone: (916)876-8840
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

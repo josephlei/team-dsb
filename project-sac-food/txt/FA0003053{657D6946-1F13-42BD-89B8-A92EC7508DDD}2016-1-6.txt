@@ -1,0 +1,264 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: NUGGET MARKETS
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+40.10
+
+FA0003053
+
+3:00 pm
+
+Time Out:
+
+5:00 pm
+
+Page:
+
+1 of 2
+
+NUGGET MARKETS INC
+
+City: Sacramento
+
+Address: 1040 FLORIN RD
+
+01/06/2016
+
+Time In:
+
+Zip Code: 95831
+PE
+
+PR0041439
+
+Phone (916)395-2875
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#9
+
+COOLING METHODS
+
+MAJOR
+
+OBSERVATIONS: SHREDDED CHICKEN 51F FOR ENCHILADAS IMPROPERLY COOLING IN LARGE CONTAINER WITH LID ON
+THAT WAS COOKED YESTERDAY. PROVIDED EDUCATION AND HANDOUT. EMPLOYEE VOLUNTARILY DISCARDED ITEM.
+MINOR VIOLATION
+PASTA 61F IMPROPERLY COOLING WITH LID ON THAT WAS COOKED WITHIN THE MAXIMUM 6 HOURS. PROVIDED EDUCATION
+AND HANDOUT. CORRECT IMMEDIATELY.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within
+4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice as
+an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer. (114002,
+114002.1)
+For more information on this violation please watch the following Food Safety video:
+
+English
+#7
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: PRE-PORTIONED TURKEY 45F IN COLD TOP INSERT.
+PRE-PORTIONED ROAST BEEF 48F IN COLD TOP INSERT.
+VEGGIE BURRITO 45F IN OPEN AIR COOLER.
+VEGETERIAN THAI NOODLES 48F IN DISPLAY COOLER.
+CORRECT IMMEDIATELY
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to
+the required holding temperatures. (113996, 113998, 114037)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: AMBIENT TEMP FOR REACH IN COOLER ACROSS FROM BLAST CHILLER WAS 44F. MAINTAIN ALL FOOD
+PRODUCTS AT 41F AND BELOW. CORRECT IN 24 HOURS.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods
+shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and
+scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3,
+114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: PIPE LEAK UNDER SPRAYER SINK FOR WAREWASHING. REPAIR IN 5 DAYS.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: NUGGET MARKETS
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+40.10
+
+FA0003053
+
+3:00 pm
+
+Time Out:
+
+5:00 pm
+
+Page:
+
+2 of 2
+
+NUGGET MARKETS INC
+
+City: Sacramento
+
+Address: 1040 FLORIN RD
+
+01/06/2016
+
+Time In:
+
+Phone (916)395-2875
+
+Zip Code: 95831
+PE
+
+Type of Inspection:
+
+PR0041439
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+MENISHA HADUCA
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+122 º F
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+169 º F
+
+Wiping Cloth
+
+03/01/2017
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+FRIED RICE / STEAM TABLE / 145.00 ºF
+
+PEPPER JACK CHEESE / COLD TOP INSERT / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+CISCO FLORES / MIC
+
+C. Lee
+
+Phone: (916)875-8451
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

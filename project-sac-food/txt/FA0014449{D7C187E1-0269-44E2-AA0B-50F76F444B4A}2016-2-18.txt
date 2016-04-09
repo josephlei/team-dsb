@@ -1,0 +1,262 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: WAYSIDE NOODLES
+
+Permit Holder:
+
+Address: 3551 TRUXEL RD STE A-3
+
+City: Sacramento
+
+CT
+
+FA
+70.19
+
+PR
+FA0014449
+
+02/18/2016
+
+Time In:
+
+2:35 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+1 of 2
+
+TUAN LE
+Zip Code: 95834
+PE
+
+PR0029805
+
+Phone (916)285-9611
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#8
+
+TIME AS A PUBLIC HEALTH CONTROL
+
+OBSERVATIONS: One unlabeled bowl of cooked pork (55f) and one container of cooked noodles (70f) found to both be missing
+written time stamps and logs. Both items need to be time stamped and have a log when using Time as a Public Health Control
+(TPHC). Corrected on site, as both food items were voluntarily discarded by operator.
+
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be
+marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within
+the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was
+used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000)
+
+# 27
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: Several uncovered food items inside of walk in freezer unit. Correct immediately.
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: - Flooring beneath dishwasher unit in need of cleaning. Clean within 24 hours.
+- Flooring below shelf across from water heater in need of cleaning. Clean within 24 hours.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Chlorine sanitizer measured <100 ppm inside of sanitizer bucket near front counter. Correct immediately.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: - Flooring beneath shelving inside of walk in freezer unit. Clean within 24 hours.
+- Flooring beneath shelving inside of walk in refrigeration unit. Clean within 24 hours.
+- Wall beneath three compartment sink in need of cleaning. Clean within 24 hours.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 3551 TRUXEL RD STE A-3
+
+City: Sacramento
+
+FA
+
+PR
+
+70.19
+
+FA0014449
+
+2:35 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+2 of 2
+
+TUAN LE
+
+Facility Name: WAYSIDE NOODLES
+CT
+
+02/18/2016
+
+Time In:
+
+Phone (916)285-9611
+
+Zip Code: 95834
+PE
+
+Type of Inspection:
+
+PR0029805
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Tuan Le
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+50 ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+147 º F
+
+Hand Sink Temp
+
+ppm
+118 º F
+
+Heat
+
+130 º F
+
+Wiping Cloth
+
+09/13/2020
+Iodine
+50
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Ambient / Upright beverage ref. (Behind register) / 39.00 ºF
+
+Rice / Rice cooker / 194.00 ºF
+
+Pork / Grill (Final Cooked Temperature) / 171.00 ºF
+
+Preportioned bag of bean sprouts / Front cold top line / 39.00 ºF
+
+Raw chicken / Walk in ref. / 39.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+TUAN LE / OWNER
+
+T. Patel
+
+Phone: (916)875-8573
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

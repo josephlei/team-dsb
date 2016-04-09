@@ -1,0 +1,274 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: LITTLE CAESARS PIZZA
+
+Permit Holder:
+
+CT
+
+FA
+81.36
+
+PR
+FA0041113
+
+Zip Code: 95621
+PE
+
+PR0079769
+
+3:22 pm
+
+Time Out:
+
+4:27 pm
+
+Page:
+
+1 of 2
+
+ARK & BAINS INC
+
+City: Citrus Heights
+
+Address: 7088 AUBURN BLVD 140
+
+02/23/2016
+
+Time In:
+
+Phone (916)725-1000
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#8
+
+TIME AS A PUBLIC HEALTH CONTROL
+
+OBSERVATIONS: Time log not recorded for pre-made pizzas stored on the rack. Facility uses time as a public health control (TPHC)
+method for these items. Must always keep time record. Voluntarily discarded during inspection.
+
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be
+marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within
+the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was
+used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000)
+
+#6
+
+HANDWASHING FACILITIES
+
+OBSERVATIONS: Paper towels dispensers at both hand wash stations are non functional. Paper towels roll available on shelf above
+prep table. Repair dispensers and provide in dispensers. Correct within one day.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Fan guards inside walk in cooler are accumulated with dust. Clean and sanitize within three days. REPEAT
+VIOLATION.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Community shared dumpster lids are left open when not in use. Keep it closed at all times. REPEAT VIOLATION.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be
+kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at
+all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and
+other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+# 43
+
+RESTROOMS MAINTAINED, SUPPLIED, AND ACCESSIBLE
+
+OBSERVATIONS: Rest room door lacks self closing device. Provide within 7 days. REPEAT VIOLATION.
+
+CODE DESCRIPTION: Toilet facilities shall be maintained and kept clean. Toilet rooms shall be separated by a well-fitting self-closing door.
+Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with
+local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments with more than 20,000 sq. ft.;
+establishments offering on-site consumption of food. (114250, 114250.1, 114276)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: LITTLE CAESARS PIZZA
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+81.36
+
+FA0041113
+
+3:22 pm
+
+Time Out:
+
+4:27 pm
+
+Page:
+
+2 of 2
+
+ARK & BAINS INC
+
+City: Citrus Heights
+
+Address: 7088 AUBURN BLVD 140
+
+02/23/2016
+
+Time In:
+
+Phone (916)725-1000
+
+Zip Code: 95621
+PE
+
+Type of Inspection:
+
+PR0079769
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 47c
+
+INSPECTION REPORT AVAILABILITY
+
+OBSERVATIONS: Previous inspection report not available. Keep inside facility at all times.
+
+CODE DESCRIPTION: A copy of the most recent routine inspection report conducted to assess compliance with this part shall be
+maintained at the food facility and made available upon request. The food facility shall post a notice advising consumers that a copy of the
+most recent routine inspection report is available for review by any interested party. (113725.1)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Caleb Goodenough
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+134 º F
+
+04/26/2018
+
+Expiration Date
+
+Hand Sink Temp
+
+200
+
+ppm
+
+100 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+ambient / walk in / 40.00 ºF
+
+ham / cold top / 40.00 ºF
+
+shredded cheese / cold top / 40.00 ºF
+
+ambient / reach in / 39.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Kayla Staggs / Employee
+
+J. Terefe
+
+Phone: (916)876-7882
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

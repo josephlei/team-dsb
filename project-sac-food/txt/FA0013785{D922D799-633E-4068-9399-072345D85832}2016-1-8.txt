@@ -1,0 +1,259 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAFEWAY #1647
+
+Permit Holder:
+
+CT
+
+FA
+96.15
+
+PR
+FA0013785
+
+Zip Code: 95758
+PE
+
+PR0028009
+
+12:15 pm
+
+Time Out:
+
+2:30 pm
+
+Page:
+
+1 of 2
+
+SAFEWAY INC
+
+City: Elk Grove
+
+Address: 5021 LAGUNA BLVD
+
+01/08/2016
+
+Time In:
+
+Phone (916)691-3770
+Type of Inspection:
+
+1614
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#4
+
+EATING, DRINKING, OR TOBACCO USE
+
+OBSERVATIONS: Observed employee drinks in screw cap bottle inside seafood display refrigerator. Use cups with lid and straw or
+other approved containers and keep it away from food prep area. Employee removed drinks. Corrected at time of inspection.
+
+CODE DESCRIPTION: Employees shall not eat, drink, or use tobacco in any area where contamination of food, clean equipment and
+utensils, linens, and single use articles may occur. Employees may drink from closed beverage container if the container is handled to
+prevent contamination of the employee's hands, the container, nonprepackaged food, and food-contact surfaces. Area designated for
+employees to eat and drink shall be located so that food, clean equipment and utensils, linens, and single-use articles are protected from
+contamination. (113977, 114256 (a))
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Observed the following food items measured between 44F-50F:
+- fruit cups (cup fruits section)
+- dice ham (deli meat section)
+- chicken (open display refrigerator)
+- pork shoulder (self serve refrigerator along wall)
+Refrigeration ambient temperature at cup fruits section measured at 46F and deli meat section measured at 50F. Ensure not to over
+stock food items above refrigeration chill level. Employee transfer and removed food items to below refrigeration chill level. Adjust
+temperature dial or have unit service so that food items will maintain at 41F or below. Correct today.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Observed mold on light cover at meat refrigeration. Clean today.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: No monitoring thermometer in meat self serve refrigerator. Provide thermometer and situate it at the warmest part
+of the unit and where it is easily readable. Correct within 3 days.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAFEWAY #1647
+
+Permit Holder:
+
+CT
+
+FA
+FA0013785
+
+2:30 pm
+
+Page:
+
+2 of 2
+
+Phone (916)691-3770
+
+Zip Code: 95758
+
+PR
+
+96.15
+
+12:15 pm
+
+Time Out:
+
+SAFEWAY INC
+
+City: Elk Grove
+
+Address: 5021 LAGUNA BLVD
+
+01/08/2016
+
+Time In:
+
+PE
+
+Type of Inspection:
+
+PR0028009
+
+Routine
+
+1614
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Adam Y Oh
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+03/19/2020
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+Hand Sink Temp
+
+ppm
+1,002 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+tofu / self serve display asile refrigerator / 41.00 ºF
+
+milk / dairy walk-in refrigerator / 40.00 ºF
+
+chicken / meat walk-in refrigerator / 40.00 ºF
+
+chicken / chicken open self serve refrigerator / 41.00 ºF
+
+steak / meat self serve display refrigerator / 41.00 ºF
+
+salmon / seafood display refrigerator / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+S. Chhang
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+Phone: (916)875-8463
+
+M. Estrada Jr.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

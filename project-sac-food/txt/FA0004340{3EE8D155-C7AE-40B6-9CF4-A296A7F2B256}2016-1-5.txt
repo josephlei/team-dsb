@@ -1,0 +1,263 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SUBWAY SANDWICHES
+
+Permit Holder:
+
+CT
+
+FA
+11.01
+
+PR
+FA0004340
+
+Zip Code: 95814
+PE
+
+PR0004789
+
+2:30 pm
+
+Time Out:
+
+3:15 pm
+
+Page:
+
+1 of 2
+
+MURRAY ENTERPRISES
+
+City: Sacramento
+
+Address: 1231 J ST
+
+01/05/2016
+
+Time In:
+
+Phone (916)443-6666
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1c
+
+FOOD HANDLER CARDS
+
+OBSERVATIONS: One expired food handler card. Obtain card within 30 days and keep on-site. -Repeat Violation-
+
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food
+Handler Card within 30 days after date of hire. (113948)
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Ham, turkey, cheese, chicken strips, pastrami and tomato at 43-50F in cold top insert of sandwich prep
+refrigerator. Maintain food cold at 41F or below. Correct immediately.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to
+the required holding temperatures. (113996, 113998, 114037)
+
+# 36
+
+EQUIPMENT STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Unsecured fire extinguisher located on floor of extra storage room located down hallway. Mount all pressurized
+tanks to rigid structure. Correct within 3 days.
+
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an
+approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be
+exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and
+food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean sanitized
+surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled, displayed, and
+dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely fastened to rigid
+structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3, 114185.4, 114185.5)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Malfunctioning thermometer for sandwich prep refrigerator. Replaced during inspection.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available to
+the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their accuracy. A
+thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines. (114157,
+114159)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Small leak from plumbing of middle compartment of 3-compartment sink. Repair within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SUBWAY SANDWICHES
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+11.01
+
+FA0004340
+
+2:30 pm
+
+Time Out:
+
+3:15 pm
+
+Page:
+
+2 of 2
+
+MURRAY ENTERPRISES
+
+City: Sacramento
+
+Address: 1231 J ST
+
+01/05/2016
+
+Time In:
+
+Phone (916)443-6666
+
+Zip Code: 95814
+PE
+
+Type of Inspection:
+
+PR0004789
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Eric Murray
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+10/12/2020
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+Hand Sink Temp
+
+300
+
+ppm
+
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+milk / display refrigerator / 45.00 ºF
+
+meatball and chicken patty / steamtable / 166.00 ºF
+
+deli meat / walk-in refrigerator / 40.00 ºF
+
+NOTES
+
+Please call Environmental Management Department for replacement permit to operate and permit will be emailed.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Debbie Aderholt / Operations Manager/Owner
+
+S. Andrusiak
+
+Phone: (916)875-8440
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

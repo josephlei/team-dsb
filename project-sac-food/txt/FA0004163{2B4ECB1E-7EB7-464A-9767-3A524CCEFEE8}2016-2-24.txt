@@ -1,0 +1,280 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: LA SUPERIOR SUPERMERCADOS
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+74.23
+
+FA0004163
+
+Zip Code: 95842
+PE
+
+PR0005499
+
+1:40 pm
+
+Time Out:
+
+2:40 pm
+
+Page:
+
+1 of 2
+
+LA SUPERIOR HILLSDALE INC
+
+City: Sacramento
+
+Address: 5731 HILLSDALE BLVD
+
+02/24/2016
+
+Time In:
+
+Phone (916)332-6200
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Chile rellenos at 45F inside deli case. They were brought from walk-in refrigerator and placed inside case. This is
+a popular item per manager and the door has been constantly opening to sell them. They only had three left and no more inside
+walk-in refrigerator.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+#9
+
+COOLING METHODS
+
+OBSERVATIONS: Hotel pan of refried beans at 47F inside walk-in refrigerator with the lid on pan. The food height was less than 6
+inches. Operator stated it was cooked this morning around 9am. Leave cover off during cooling process to allow heat to escape and
+food to cool completely down to 41F. Food must cool from 135F to 70F in 2 hours and from 70F to 41F in 4 hours. Corrected during
+inspection by removing lid.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within
+4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice
+as an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer.
+(114002, 114002.1)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Lid to refried beans in steam table was cracked. It was discarded during inspection and replaced with a new one.
+Fly tape hanging in between prep ventilation hood and steam table in Taqueria. Fly tape removed during inspeciton.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: One inoperable light inside ventilation hood along back prep line of Taqueria. Replace light within 14 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Bleach inside sanitizer bucket near front counter of Taqueria is at 50ppm. Keep at 100ppm at all times. It was
+corrected during inspection.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: LA SUPERIOR SUPERMERCADOS
+CT
+
+FA
+
+PR
+
+74.23
+
+FA0004163
+
+1:40 pm
+
+Time Out:
+
+2:40 pm
+
+Page:
+
+2 of 2
+
+LA SUPERIOR HILLSDALE INC
+
+Permit Holder:
+City: Sacramento
+
+Address: 5731 HILLSDALE BLVD
+
+02/24/2016
+
+Time In:
+
+Phone (916)332-6200
+
+Zip Code: 95842
+PE
+
+Type of Inspection:
+
+PR0005499
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Guillermo Cervantes
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+142 º F
+
+08/28/2017
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+122 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+50
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+rice / steam table / 171.00 ºF
+
+potato salad / deli case / 39.00 ºF
+
+cooked pork / walk-in refrigerator / 39.00 ºF
+
+tamales / deli case / 41.00 ºF
+
+cooked chicken / steam table / 182.00 ºF
+
+whole baked chicken / hot holding case / 156.00 ºF
+
+carnitas / hot holding case / 152.00 ºF
+
+rice / walk-in refrigerator / 40.00 ºF
+
+queso / deli case / 39.00 ºF
+
+NOTES
+
+This inspection report is for the deli/taqueria.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Guillermo Cervantes / Manager
+
+J. Martin
+
+Phone: (916)875-1758
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

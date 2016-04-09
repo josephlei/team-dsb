@@ -1,0 +1,254 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: FIT EATS
+
+Permit Holder:
+
+CT
+
+FA
+05.00
+
+PR
+FA0049749
+
+12:30 pm
+
+Time Out:
+
+1:30 pm
+
+Page:
+
+1 of 2
+
+DON ARNOLD
+
+City: Sacramento
+
+Address: 1420 16TH ST
+
+10/15/2015
+
+Time In:
+
+Zip Code: 95814
+PE
+
+PR0109120
+
+Phone (916)366-3287
+Type of Inspection:
+
+1612
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 43
+
+RESTROOMS MAINTAINED, SUPPLIED, AND ACCESSIBLE
+
+OBSERVATIONS: Completely out of toilet paper in restroom. Corrected. Education provided.
+
+CODE DESCRIPTION: Toilet facilities shall be maintained and kept clean. Toilet rooms shall be separated by a well-fitting self-closing door.
+Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with
+local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments with more than 20,000 sq. ft.;
+establishments offering on-site consumption of food. (114250, 114250.1, 114276)
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Bottled perishable juices measured 49F in counter top cooler. Correct immediately. Education provided. Provided
+cold holding stickers.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Lack monitoring thermometers for counter top cooler and reach in cooler in office. Correct within 72 hours.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Lack anti-siphon device for mop sink faucet. Correct within 72 hours.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+# 47c
+
+INSPECTION REPORT AVAILABILITY
+
+OBSERVATIONS: Lack most recent copy of official inspection report. Correct immediately.
+
+CODE DESCRIPTION: A copy of the most recent routine inspection report conducted to assess compliance with this part shall be
+maintained at the food facility and made available upon request. The food facility shall post a notice advising consumers that a copy of the
+most recent routine inspection report is available for review by any interested party. (113725.1)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: FIT EATS
+CT
+
+FA
+
+PR
+
+05.00
+
+FA0049749
+
+12:30 pm
+
+Time Out:
+
+1:30 pm
+
+Page:
+
+2 of 2
+
+DON ARNOLD
+
+Permit Holder:
+City: Sacramento
+
+Address: 1420 16TH ST
+
+10/15/2015
+
+Time In:
+
+Phone (916)366-3287
+
+Zip Code: 95814
+PE
+
+Type of Inspection:
+
+PR0109120
+
+Routine
+
+1612
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+n/a
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+ºF
+
+Hand Sink Temp
+
+ppm
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+ºF
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+pasta / reach in cooler / 39.00 ºF
+
+ambient / counter top cooler / 37.00 ºF
+
+chicken / display cooler / 39.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Mark / Employee
+
+A. Daniels
+
+Phone: (916)875-8417
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

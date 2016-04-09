@@ -1,0 +1,247 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SUBWAY
+
+Permit Holder:
+
+CT
+
+FA
+37.00
+
+PR
+FA0044640
+
+Zip Code: 95820
+PE
+
+PR0092150
+
+10:00 am
+
+Time Out:
+
+11:00 am
+
+Page:
+
+1 of 2
+
+AHMAD GHEISAR
+
+City: Sacramento
+
+Address: 5385 FRANKLIN BLVD #L
+
+11/03/2015
+
+Time In:
+
+Phone (916)706-3666
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Quat. Ammonia at 150 ppm in the warewashing sink. A cover was soaking but dishes were NOT being washed
+during the inspection. Sanitizer must measure 200 ppm QA prior to sanitizing.
+CalCode requires 200 ppm quaternary ammonia to be used for manual sanitization. There is no exemption to this except section
+114099.6 (c) which states that manual sanitization can be accomplished using “other methods approved by the enforcement
+agency.” EMD does not accept manufacturer’s instructions but requires 200 ppm when using QA for sanitizers in food facilities.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least 100F
+or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact with
+solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in the final
+rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After cleaning and
+sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101 (b-d), 114105,
+114109, 114111)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Floor sink in the front draining the soda machine has some mold. Clean to ensure that it doesn't overflow.
+Correct within 7 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: A waste discharge/condensate pipe below the soda fountain is leaking. Repair leak within 30 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SUBWAY
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+37.00
+
+FA0044640
+
+10:00 am
+
+Time Out:
+
+11:00 am
+
+Page:
+
+2 of 2
+
+AHMAD GHEISAR
+
+City: Sacramento
+
+Address: 5385 FRANKLIN BLVD #L
+
+11/03/2015
+
+Time In:
+
+Phone (916)706-3666
+
+Zip Code: 95820
+PE
+
+Type of Inspection:
+
+PR0092150
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Shayan Gheysor
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+120 º F
+
+01/26/2017
+
+Expiration Date
+
+Hand Sink Temp
+
+150
+
+ppm
+
+100 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+sliced ham / cold holding sandwich table / 41.00 ºF
+
+broccoli cheese soup / hot holding sandwich table / 171.00 ºF
+
+Bagged sauce / walk in / 39.00 ºF
+
+milk / customer display self-serve / 40.00 ºF
+
+portioned chicken / cold holding sandwich table / 41.00 ºF
+
+meat ball marinara / hot holding sandwich table / 140.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+D. Katz
+
+Phone: (916)875-8448
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,263 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: RIVER CITY DELI AND BAGELS
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+26.00
+
+FA0012462
+
+Zip Code: 95818
+PE
+
+PR0022948
+
+12:35 pm
+
+Time Out:
+
+1:25 pm
+
+Page:
+
+1 of 2
+
+AKRUN MUONG
+
+City: Sacramento
+
+Address: 2546 24TH ST
+
+01/18/2016
+
+Time In:
+
+Phone (916)736-1698
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#9
+
+COOLING METHODS
+
+OBSERVATIONS: Breakfast potatoes at 63F in covered container in the stand up cooler. Maintain uncovered when not in use.
+Corrected. Item has been cooling for less than 2 hours.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within
+4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice
+as an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer.
+(114002, 114002.1)
+
+# 14a
+
+FOOD CONTACT SURFACES CLEANED AND SANITIZED
+
+OBSERVATIONS: Meat slicer unclean on the back side. Clean and maintain now.
+
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each
+use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and
+potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred.
+Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+OBSERVATIONS: Sanitizer gel stored on top of container with powdered dairy cream. Store chemicals away from food and food
+related equipment. Corrected.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination
+of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food
+facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall
+be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Household rice cooker observed in facility. If it is for personal use, label it as " personal use only". Corrected.
+Cover for speed rack observed deteriorated and unclean from old food debris. Clean in 24 hours and replace in 3 months.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Observed waste water pipe for prep sink missing the one inch air gap. Correct in 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: RIVER CITY DELI AND BAGELS
+CT
+
+FA
+
+PR
+
+26.00
+
+FA0012462
+
+12:35 pm
+
+Time Out:
+
+1:25 pm
+
+Page:
+
+2 of 2
+
+AKRUN MUONG
+
+Permit Holder:
+City: Sacramento
+
+Address: 2546 24TH ST
+
+01/18/2016
+
+Time In:
+
+Phone (916)736-1698
+
+Zip Code: 95818
+PE
+
+Type of Inspection:
+
+PR0022948
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Akrun Muong
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+01/31/2018
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+meat / prep cooler / 41.00 ºF
+
+eggs / walk in cooler / 41.00 ºF
+
+cheese / glassed display cooler / 41.00 ºF
+
+ham / stand up cooler / 41.00 ºF
+
+milk / prep cooler / 41.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Akrun Muong / Owner
+
+T. Nguyen
+
+Phone: (916)876-7531
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,298 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MERCY GENERAL HOSPITAL-LHCF
+
+Permit Holder:
+
+CT
+
+FA
+15.00
+
+PR
+FA0004395
+
+Zip Code: 95819
+PE
+
+PR0004841
+
+11:00 am
+
+Time Out:
+
+1:30 pm
+
+Page:
+
+1 of 2
+
+MERCY GENERAL HOSPITAL
+
+City: Sacramento
+
+Address: 4001 J ST
+
+02/24/2016
+
+Time In:
+
+Phone (916)453-4152
+Type of Inspection:
+
+1624
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: MAJOR VIOLATIONS - Bistro salad prep refrigerator: Sun dried tomato aioli at 56F.
+Bistro self service refrigerator: ham and roast beef sandwiches ranging 47-56F. The 7 sandwiches located in this refrigerator were
+discarded by operator.
+Bistro pizza prep table top refrigeration: pepperoni 47F, olives 47F
+Ensure that all cold potentially hazardous foods are maintained at or below 41F at all times. Correct immediately.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 31
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+CONSUMER SELF-SERVICE OPERATIONS
+
+OBSERVATIONS: Salsa and ranch available for self service without a sneeze guard. Install sneeze guard or lids. Correct 30 days.
+
+CODE DESCRIPTION: Raw, non-prepackaged food of animal origin, such as beef, lamb, pork, poultry, and eviscerated fish, shall not be
+offered for consumer self-service. Consumer self-service operations for ready-to-eat foods such as buffets and salad bars shall be provided
+with a suitable food dispensing utensil for each container displayed or effective dispensing methods that protect the food from
+contamination. Except for drinking cups, food employees and consumers shall not be allowed to use soiled tableware, including single-use
+articles, to obtain additional food from the display and servicing equipment. Consumer self-service bulk beverages shall be dispensed in
+approved manner. (114063 (a,d), 114065, 114075)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Two areas where moisture is accumulating and dripping from ceiling noted in produce walk in. Repair to eliminate
+moisture dripping from ceiling. keep all food products away from dripping areas. If any food comes into contact with this moisture,
+it is contaminated and must be discarded. Correct 2 weeks
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Wiping towel on prep surface wit 0 ppm sanitizer and food debris noted on it. 3 sanitizer buckets in bistro area
+noted at 0ppm QA sanitizer. Ensure that buckets contain a minimum of 200 ppm QA sanitizer or 100 ppm Chlorine at all times.
+Provide training to employees that wiping towels must be returned to sanitizer bucket whenever not in active use. Correct 1 day.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MERCY GENERAL HOSPITAL-LHCF
+CT
+
+FA
+
+PR
+
+15.00
+
+FA0004395
+
+11:00 am
+
+Time Out:
+
+1:30 pm
+
+Page:
+
+2 of 2
+
+MERCY GENERAL HOSPITAL
+
+Permit Holder:
+City: Sacramento
+
+Address: 4001 J ST
+
+02/24/2016
+
+Time In:
+
+Phone (916)453-4152
+
+Zip Code: 95819
+PE
+
+Type of Inspection:
+
+PR0004841
+
+Routine
+
+1624
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Jack McElvein
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+140 º F
+
+Hand Sink Temp
+
+200
+
+ppm
+
+110 º F
+
+Heat
+
+170 º F
+
+12/08/2020
+Iodine
+
+Wiping Cloth
+
+0
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+turkey / warmer - bistro / 154.00 ºF
+
+chicken / 2 door glass front - bistro / 36.00 ºF
+
+chicken salad / tray line / 32.00 ºF
+
+test bottle / ref #3 / 38.00 ºF
+
+lettuce / produce walk in / 37.00 ºF
+
+beef boodle soup / tray line / 178.00 ºF
+
+pizza / self service - bistro / 138.00 ºF
+
+milk / cooks walk in / 40.00 ºF
+
+turkey / warmer - kitchen / 158.00 ºF
+
+Rice / warmer - kitchen / 140.00 ºF
+
+coleslaw / grill prep - bistro / 41.00 ºF
+
+cooked carrots / tray line / 145.00 ºF
+
+mashed potatoes / Tray line / 180.00 ºF
+
+veggie burger / cooks refrigerator / 40.00 ºF
+
+milk / dairy walk in / 41.00 ºF
+
+test bottle / Ref #2 / 38.00 ºF
+
+NOTES
+
+Remodeling of kitchen that occurred approx 2 years ago has closed easy access to hand sink for cooks. Two prep sinks are currently
+available on cooks line. Strongly recommend converting one of these prep sinks to a handwashing station. Install soap and paper towel
+dispenser at sink and restrict all food prep activities to other prep sink.
+Hoodless panini maker in bistro appears to have considerable amount of smoke coming off it. If buildup is noted on cieling or vents, you
+may be required to relocate panini under a hood.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Jack McElvein / Dir of Food and Nut Services
+
+J. Talusik
+
+Phone: (916)875-8580
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

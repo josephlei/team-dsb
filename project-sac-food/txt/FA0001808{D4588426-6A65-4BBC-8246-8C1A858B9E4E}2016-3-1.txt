@@ -1,0 +1,285 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: BOUCANES SMOKEHOUSE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+84.03
+
+FA0001808
+
+12:42 pm
+
+Time Out:
+
+2:18 pm
+
+Page:
+
+1 of 2
+
+HANAGO ENTERPRISES LLC
+
+City: Folsom
+
+Address: 329 E BIDWELL ST
+
+03/01/2016
+
+Time In:
+
+Zip Code: 95630
+PE
+
+PR0001955
+
+Phone (916)221-8897
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+MAJOR
+
+OBSERVATIONS: Handsink was blocked by tub and mop buckets. Corrected.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 5a
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HANDWASHING PROCEDURES
+
+OBSERVATIONS: Observed employee wiping hands on apron. Wash hands as needed. Corrected.
+
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after
+touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled
+equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw
+to ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate
+hands. (113952, 113953.3, 113953.4)
+
+#9
+
+COOLING METHODS
+
+OBSERVATIONS: Observed beef and chicken in walk in refrigerator in covered container at 62-65F. Beef was cooked two hours
+previously. Keep lid off food when cooling. Corrected.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within
+4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice
+as an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer.
+(114002, 114002.1)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Light over steam table is inoperable. Repair within 7 days. Repeat violation.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Faucet at warewash sink leaks. Repair within 7 days.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: BOUCANES SMOKEHOUSE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+84.03
+
+FA0001808
+
+12:42 pm
+
+Time Out:
+
+2:18 pm
+
+Page:
+
+2 of 2
+
+HANAGO ENTERPRISES LLC
+
+City: Folsom
+
+Address: 329 E BIDWELL ST
+
+03/01/2016
+
+Time In:
+
+Phone (916)221-8897
+
+Zip Code: 95630
+PE
+
+Type of Inspection:
+
+PR0001955
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+# 44d
+
+EMPLOYEE PERSONAL ITEMS
+
+OBSERVATIONS: Observed backpack on table next to mixer. Corrected.
+
+CODE DESCRIPTION: No person shall store clothing or personal effects in any area used for the storage and preparation of food. Lockers
+or other suitable facilities shall be provided and used for the orderly storage of employee clothing and other possessions. Lockers or other
+suitable facilities shall be located in a designated room or area where contamination of food, equipment, utensils, and single-use articles
+cannot occur. (114256, 114256.1.)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Nicole Burton
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+04/16/2018
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+123 º F
+
+Hand Sink Temp
+
+ppm
+103 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+yams / walk in / 41.00 ºF
+
+chicken / steam table / 166.00 ºF
+
+potato salad / cold top / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Marlon Gamble / PIC
+
+C. Dorrough
+
+Phone: (916)875-8426
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,270 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CIRCLE K STORES INC #2700951951-
+
+Permit Holder:
+
+CT
+
+FA
+81.33
+
+PR
+FA0032108
+
+12:15 pm
+
+Time Out:
+
+1:00 pm
+
+Page:
+
+1 of 2
+
+CIRCLE K STORES INC
+
+City: Carmichael
+
+Address: 5809 MANZANITA AVE
+
+12/22/2015
+
+Time In:
+
+Zip Code: 95608
+PE
+
+PR0011462
+
+Phone (916)332-3825
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+OBSERVATIONS: Handwashing sink partially blocked with mop bucket stored in front of it. Keep clear. Correct immediately.
+<REPEAT VIOLATION>
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+
+# 22
+
+SEWAGE AND WASTEWATER DISPOSAL
+
+OBSERVATIONS: Waste water from mop bucket is discarded in the back outside the rear door of facility. Dispose off the waste water
+in drain connected to approved sewer system (floor sink or toilet). Correct immediately.
+NOTE:
+The facility does not have mop sink, floor sink available under the warewashing sink.
+
+CODE DESCRIPTION: Liquid waste shall be disposed of through the approved plumbing system that discharges into the public sewerage
+or into an approved private sewage disposal system. Grease traps and grease interceptors shall be easily accessible for servicing. (114197,
+114201)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Floor under the soda syrup storage racks unclean. Clean within 3 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Ice build up inside the reachin freezer in the walkin refrigerator. Repair within 7 days and clean the ice.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Monitoring thermometer not available in reachin refrigerator under the hot holding grill. Provide within 5 days.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CIRCLE K STORES INC #2700951951-
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+81.33
+
+FA0032108
+
+12:15 pm
+
+Time Out:
+
+1:00 pm
+
+Page:
+
+2 of 2
+
+CIRCLE K STORES INC
+
+City: Carmichael
+
+Address: 5809 MANZANITA AVE
+
+12/22/2015
+
+Time In:
+
+Phone (916)332-3825
+
+Zip Code: 95608
+PE
+
+Type of Inspection:
+
+PR0011462
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Garbage dumpster lid kept open when not in use. Correct immediately.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be
+kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at
+all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and
+other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Christopher Weaver
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+122 º F
+
+10/28/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+hot dogs / hot holding grill / 145.00 ºF
+
+prepackaged hot burrito / hot holding / 142.00 ºF
+
+milk / reachin refrigeraotr / 44.00 ºF
+
+cold sandwich / cold holding display (open) / 41.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Christopher Weaver / manager
+
+R. Singh
+
+Phone: (916)876-7587
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,253 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CAFE ROLLE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+02.00
+
+FA0004072
+
+Zip Code: 95819
+PE
+
+PR0006958
+
+2:40 pm
+
+Time Out:
+
+3:36 pm
+
+Page:
+
+1 of 2
+
+WILLIAM ROLLE
+
+City: Sacramento
+
+Address: 5357 H ST A
+
+02/09/2016
+
+Time In:
+
+Phone (916)455-9140
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#9
+
+COOLING METHODS
+
+OBSERVATIONS: Observed container of caramelized onions at 84F in the walk in cooler cooling. When cooling stir products often,
+use ice, ice baths, ice wands, and or cooling sticks. Corrected. Item reached the danger less than 2 hours before. Corrected. Item
+was placed into shallower pans, placed into ice and placed back into the walk in cooler.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within
+4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice
+as an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer.
+(114002, 114002.1)
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Dish washing machine was sanitizing at 10ppm for chlorine sanitizer. Maintain at 50ppm. Do not use machine
+until it is sanitizing at proper level. Manually ware wash and sanitize until machine is functioning properly.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Facility is cooking raw meats such as lamb and chicken and fish in the oven that is not located under a hood with
+an ansul system. Cease the practice of cooking raw meats and raw fish.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 43
+
+RESTROOMS MAINTAINED, SUPPLIED, AND ACCESSIBLE
+
+OBSERVATIONS: Facility's bathroom is located in the back of the kitchen where customers would have to pass through the kitchen
+to get to it. Post a sign that states that "no public restrooms are available" with in 7 days.
+
+CODE DESCRIPTION: Toilet facilities shall be maintained and kept clean. Toilet rooms shall be separated by a well-fitting self-closing door.
+Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with
+local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments with more than 20,000 sq. ft.;
+establishments offering on-site consumption of food. (114250, 114250.1, 114276)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CAFE ROLLE
+CT
+
+FA
+
+PR
+
+02.00
+
+FA0004072
+
+2:40 pm
+
+Time Out:
+
+3:36 pm
+
+Page:
+
+2 of 2
+
+WILLIAM ROLLE
+
+Permit Holder:
+City: Sacramento
+
+Address: 5357 H ST A
+
+02/09/2016
+
+Time In:
+
+Phone (916)455-9140
+
+Zip Code: 95819
+PE
+
+Type of Inspection:
+
+PR0006958
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+William Rolle
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+10 ppm
+
+Ware Sink Temp
+
+10/15/2017
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+salmon / prep cooler / 39.00 ºF
+
+lamb / walk in cooler / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+William Rolle / Owner
+
+T. Nguyen
+
+Phone: (916)876-7531
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

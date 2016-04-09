@@ -1,0 +1,277 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAFEWAY #2242
+
+Permit Holder:
+
+Address: 1025 ALHAMBRA BLVD
+
+City: Sacramento
+
+CT
+
+FA
+15.00
+
+PR
+FA0001390
+
+1:15 pm
+
+Time Out:
+
+2:25 pm
+
+Page:
+
+1 of 2
+
+SAFEWAY STORES INC
+Zip Code: 95816
+PE
+
+PR0005008
+
+12/02/2015
+
+Time In:
+
+Phone (916)456-0852
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1a
+
+DEMONSTRATION OF KNOWLEDGE
+
+OBSERVATIONS: Employee not aware that probing thermometers must be sanitized prior to probing a food product. Correct going
+forward. Management shall provide training to all employees.
+
+CODE DESCRIPTION: Food employees shall have adequate knowledge of food safety as it relates to their assigned duties. (113947)
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: No hot water at hand washing sink in the bathroom. Correct now. Per manager, if another area of the facility is
+using the hot water then it will not get to the bathroom sink.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 27
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: Moldy growth on the ice chute of the soda fountain. Clean and sanitize with in 24 hours.
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 30a
+
+FOOD STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Bag of flour for marinating chicken was stored on the floor in storage room. Store 6 inches off the floor.
+Corrected.
+
+CODE DESCRIPTION: Food items shall be stored at least six inches above the floor in an approved location within the fully enclosed
+permitted food facility. Food shall not be exposed to splash, dust, vermin, or other forms of contamination or adulteration. Prepackaged
+food may not be stored in direct contact with ice if the food is subject to the entry of water because of the nature of it's packaging.
+Non-prepackaged food may not be stored in direct contact with undrained ice. (114047, 114049, 114053, 114055, 114069 (b))
+
+# 34
+
+WAREWASHING FACILITIES AND TESTING METHODS
+
+OBSERVATIONS: Secondary thermometer for testing high temperature dish washer was not working for testing dish washer.
+Correct with in 3 days.
+
+CODE DESCRIPTION: Facilities that prepare food shall be equipped with a manual warewashing sink that has at least three compartments
+with two integral metal drainboards. A two compartment sink that was installed before January 1, 1996, need not be replaced when used in
+approved manner. Sink compartments shall be large enough to accommodate immersion of the largest equipment and utensils used.
+Testing materials shall be provided to adequately measure the applicable sanitization method used during manual or mechanical
+warewashing. (113984(e), 114067(f,g), 114099, 114099.3, 114099.5, 114101(a), 114101.1, 114101.2, 114103, 114107, 114125)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 1025 ALHAMBRA BLVD
+
+City: Sacramento
+
+FA
+
+PR
+
+15.00
+
+FA0001390
+
+1:15 pm
+
+Time Out:
+
+2:25 pm
+
+Page:
+
+2 of 2
+
+SAFEWAY STORES INC
+
+Facility Name: SAFEWAY #2242
+CT
+
+12/02/2015
+
+Time In:
+
+Phone (916)456-0852
+
+Zip Code: 95816
+PE
+
+Type of Inspection:
+
+PR0005008
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: No sanitizer in sanitizer bucket. Sanitizer coming out of dispenser at 3 compartment sink observed at 0ppm for
+quatnery ammonia sanitizer. Sanitizer bag was empty.
+Corrected during inspection.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Suzanne Smith
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+160 º F
+
+09/22/2020
+Iodine
+
+Wiping Cloth
+
+0
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+deli meat / cold top / 41.00 ºF
+
+cheese / open display cooler / 41.00 ºF
+
+soup / open display cooler / 41.00 ºF
+
+soup / soup hot holder / 190.00 ºF
+
+meat / walk in / 41.00 ºF
+
+chicken / hot case / 151.00 ºF
+
+chicken / out of the oven / 202.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Richard Lopez / Store manager
+
+T. Nguyen
+
+Phone: (916)876-7531
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

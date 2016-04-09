@@ -1,0 +1,385 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: WHOLE FOODS MARKET CALIFORNIA INC
+FA
+58.01
+
+PR
+FA0007091
+
+Zip Code: 95864
+PE
+
+PR0008979
+
+10:50 am
+
+Time Out:
+
+1:15 pm
+
+Page:
+
+1 of 3
+
+WHOLE FOODS MKT CALIFORNIA INC
+
+City: Sacramento
+
+Address: 4315 ARDEN WAY
+CT
+
+Permit Holder:
+
+01/19/2016
+
+Time In:
+
+Phone (916)488-2800
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: - Food at self-service warmer was out of proper temperature: asiago chicken 122F-132F, chicken wings 109F-131F,
+butternut squash 116F-122F, rotisserie chicken 120F-132F, grilled vegetables 126F. Per employee, food was cooked before 11am
+and log states temperature reached 170F. Some containers were overfilled and some temped 131F on the bottom of pan. Corrected
+by reheating food above 165F.
+- Ribs 128F-132F near door at double deck Alto-Shaam. Ribs were reheated during inspection. (Note all other food items have been
+covered inside warmer unit.)
+- Spanish rice 116F-134F at burrito prep steam table. Reheated during inspection.
+Minor Violation: - Green beans 130F-132F and zucchini 132F inside self-service warmer.
+- Butternut squash salad 48F, grilled mushrooms 48F, grilled zucchini 48F, roasted root vegetables 46F-50F, beet apple salad 50F at
+salad bar cooler.
+- Turkey croissant sandwiches 45F at open air cooler while cooler was on defrost cycle.
+Maintain all hot food items at/above 135F and cold foods at/below 41F at all times. Do not store food items above insert fill line. If
+possible add more water to steam units or place food into deeper containers. Turn thermostat to colder setting.
+Note: Ambient temperature near doors of walk-in cooler was 42F. Turn thermostat to colder setting to ensure all foods stored
+at/below 41F at all times. (Also, see violation #35)
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 5a
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HANDWASHING PROCEDURES
+
+OBSERVATIONS: Observed employee handle dirty dishes into dish machine and then unload clean dishes without washing hands in
+between. Wash hands after handling dirty dishes before clean dishes. Wash hands whenever get contaminated. Employee was
+education. Highly recommend installing soap dispenser at warewash area.
+
+CODE DESCRIPTION: Employees are required to wash their hands in the following situations: before engaging in food preparation, after
+touching bare skin, after using the toilet room, after coughing or sneezing, after eating, drinking, or using tobacco, after handling soiled
+equipment or utensils, as often as necessary during food preparation to prevent cross-contamination, when switching from working with raw
+to ready to eat foods, before donning gloves, before dispensing or serving food, after engaging in other activities that may contaminate
+hands. (113952, 113953.3, 113953.4)
+
+#8
+
+TIME AS A PUBLIC HEALTH CONTROL
+
+OBSERVATIONS: Improperly maintained TPHC log since second batch of breakfast foods (sausages, oatmeal, eggs, etc.) was not
+properly logged with time. Second batch of breakfast was removed at 11:47am from self-service area when log indicated 11am for
+the first batch only. When time only, rather time in conjunction with temperature is used as a public health control, proper records
+and documentation must be maintained. Food items must be labeled with time from it was removed from temperature control and
+time when it should be discarded (4 hours later). Food must be promptly discarded at 4th hour. Per management, they will start
+labeling time for every batch that gets placed on self-service area. Train all employees about proper TPHC use. Failure to comply
+will result in major violation. Education and TPHC handout was provided.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: WHOLE FOODS MARKET CALIFORNIA INC
+FA
+58.01
+
+PR
+FA0007091
+
+10:50 am
+
+Time Out:
+
+1:15 pm
+
+Page:
+
+2 of 3
+
+WHOLE FOODS MKT CALIFORNIA INC
+
+City: Sacramento
+
+Address: 4315 ARDEN WAY
+CT
+
+Permit Holder:
+
+01/19/2016
+
+Time In:
+
+Zip Code: 95864
+PE
+
+PR0008979
+
+Phone (916)488-2800
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be
+marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within
+the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was
+used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Deteriorated top door gasket of walk-in cooler. Replace within 14 days.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: - Not properly functional thermometer inside walk-in cooler. Provide within 7 days.
+- Missing monitoring thermometer inside small Alto-Shaam warmer. Provide within 5 days. REPEAT VIOLATION
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Sprayer head was nesting inside prep sink next to blast chiller. Corrected during inspection.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: WHOLE FOODS MARKET CALIFORNIA INC
+CT
+
+FA
+FA0007091
+
+1:15 pm
+
+Page:
+
+3 of 3
+
+Phone (916)488-2800
+
+Zip Code: 95864
+
+PR
+
+58.01
+
+10:50 am
+
+Time Out:
+
+WHOLE FOODS MKT CALIFORNIA INC
+
+Permit Holder:
+City: Sacramento
+
+Address: 4315 ARDEN WAY
+
+01/19/2016
+
+Time In:
+
+PE
+
+Type of Inspection:
+
+PR0008979
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Marilyn Loesch
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+127 º F
+
+Hand Sink Temp
+
+ppm
+109 º F
+
+Heat
+
+129 º F
+
+Wiping Cloth
+
+04/28/2020
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+mac and cheese / self-service warmer unit / 143.00 ºF
+
+chicken breast, loaded potato, turkey meat / walk-in cooler / 42.00 ºF
+
+pasta salad / self-service cooler / 45.00 ºF
+
+Rotiserie chicken / open air warmer / 149.00 ºF
+
+mashroom soup / soup well at self-service area / 142.00 ºF
+
+brown rice / burrito prep warmer / 148.00 ºF
+
+split pea soup / soup welll at self-service area / 135.00 ºF
+
+spinach feta / display cooler (upright) near retail area / 40.00 ºF
+
+tamales / open air cooler / 40.00 ºF
+
+tuna / pack room / 40.00 ºF
+
+sliced tomatoes / reach-in cooler at sandwich prep area / 40.00 ºF
+
+egg plant parmeasan / self-service warmer unit / 138.00 ºF
+
+shredded cheese / cold top cooler at pizza prep / 40.00 ºF
+
+chicken wings, egg plant / 2-door Alto-Shaam warmer / 138.00 ºF
+
+rice / 1-door Alto-Shaam warmer / 150.00 ºF
+
+saute onions / cold drawer at pizza prep / 39.00 ºF
+
+tofu salad / open air cooler / 40.00 ºF
+
+NOTES
+
+1. Slightly deteriorated flooring observed at warewash area. Maintained sealed at all times.
+2. This inspection report is for DELI.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Bryan Castaneda / associate store team leader
+
+E. Drobenyuk
+
+Phone: (916)875-1749
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

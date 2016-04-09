@@ -1,0 +1,260 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: INDERKUM HIGH SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+71.03
+
+PR
+FA0018425
+
+Zip Code: 95835
+PE
+
+PR0044869
+
+11:15 am
+
+Time Out:
+
+12:45 pm
+
+Page:
+
+1 of 2
+
+NATOMAS UNIFIED SCHOOL DIST
+
+City: Sacramento
+
+Address: 2500 NEW MARKET DR
+
+09/09/2015
+
+Time In:
+
+Phone (916)567-5400
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Measured Kung Poa Chicken in drawer warmers in snack bar between 97 F to 108 F. Hamburgers measured at
+108 F in counter top hot hold display unit in snack bar (thermometer inside unit show unit was holding at 100 F). Measured
+hamburgers in hot hold cabinet on service line at 125 F. Measured tamales in different Crescor hot hold cabinet at 128 F. According
+to person in charge, business practice to keep food safe is maintaining hot food temperatures above 135 F at all times. Items were
+removed from service and placed in oven for rapid reheating (reheat to 165 F and above).
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Maximum temperature of rinse cycle for high temperature dishwasher was 135 F. Unit was ran about 10 times.
+Discontinue use of dishwasher unit rinse cycle provide hot water per manufactures instructions ( or min. 160 F). Warewash sink
+was also set up.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: 3 of 4 probe thermometers are inaccurate. Read between 20 F to 26 F in ice water. Calibrate to 32 F in ice water
+today.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+# 44d
+
+EMPLOYEE PERSONAL ITEMS
+
+OBSERVATIONS: Employee beverage stored on shelf above student food products in walk-in freezer. Store personal food/beverage
+products below customer/student food products.
+
+CODE DESCRIPTION: No person shall store clothing or personal effects in any area used for the storage and preparation of food. Lockers
+or other suitable facilities shall be provided and used for the orderly storage of employee clothing and other possessions. Lockers or other
+suitable facilities shall be located in a designated room or area where contamination of food, equipment, utensils, and single-use articles
+cannot occur. (114256, 114256.1.)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: INDERKUM HIGH SCHOOL
+CT
+
+FA
+
+PR
+
+71.03
+
+FA0018425
+
+11:15 am
+
+Time Out:
+
+12:45 pm
+
+Page:
+
+2 of 2
+
+NATOMAS UNIFIED SCHOOL DIST
+
+Permit Holder:
+City: Sacramento
+
+Address: 2500 NEW MARKET DR
+
+09/09/2015
+
+Time In:
+
+Phone (916)567-5400
+
+Zip Code: 95835
+PE
+
+Type of Inspection:
+
+PR0044869
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+Expiration Date
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+143 º F
+
+Hand Sink Temp
+
+200
+
+ppm
+
+143 º F
+
+Heat
+
+163 º F
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+burritos / final cook / 146.00 ºF
+
+sandwiches / display cooler front line / 40.00 ºF
+
+ambient / 4-door refrigerators / 37.00 ºF
+
+milk / walk-in cooler near office / 37.00 ºF
+
+sliced turkey / walk-in cooler near dry storage / 38.00 ºF
+
+NOTES
+
+According to person in charge, the entire staff is new to this school. Previous staff no longer works at this site. Obtain food safety
+certification within 60 days.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+johanna mitschan / food service lead
+
+A. Sharma
+
+Phone: (916)875-4842
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

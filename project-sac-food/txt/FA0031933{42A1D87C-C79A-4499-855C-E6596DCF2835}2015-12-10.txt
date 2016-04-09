@@ -1,0 +1,260 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: BRADSHAW CHEVRON
+
+Permit Holder:
+
+CT
+
+FA
+91.03
+
+PR
+FA0031933
+
+11:50 am
+
+Time Out:
+
+12:50 pm
+
+Page:
+
+1 of 2
+
+EDWARD R MARSZAL ENTERPRISES, INC
+
+City: Sacramento
+
+Address: 3300 BRADSHAW RD
+
+12/10/2015
+
+Time In:
+
+Zip Code: 95827
+PE
+
+PR0010586
+
+Phone (916)362-6336
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#8
+
+TIME AS A PUBLIC HEALTH CONTROL
+
+OBSERVATIONS: 2 spicy breaded chicken wraps lacked time stamp. Per manager, all product was prepared at 9am. Time stamp
+provided for 1pm at the time of inspection. Corrected.
+NOTE: Product measured 135F in hot holding case.
+
+CODE DESCRIPTION: When time as a public health control is used, the following procedures shall be observed: food items shall be
+marked to indicate four hours past the time when the food was removed from temperature control, food shall be served or discarded within
+the four-hour time limit, written procedures for food that was prepared, cooked, and refrigerated before time as a public health control was
+used, shall be maintained at the food facility and be made available to the enforcement agency upon request. (114000)
+
+# 14a
+
+FOOD CONTACT SURFACES CLEANED AND SANITIZED
+
+OBSERVATIONS: Old sticky debris observed on specialty beverage powder chutes. Clean within 24 hours.
+
+CODE DESCRIPTION: Food contact surfaces, utensils, and equipment shall be cleaned and sanitized at the following times: before each
+use with different type of raw food of animal origin, when changing from raw food to ready to eat food, between uses with raw produce and
+potentially hazardous food, before using a thermometer, any time during the operation when contamination may have occurred.
+Food-contact surfaces and utensils shall be clean to sight and touch. (114113, 114115, 114117, 114125(b), 114141)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Floor beneath beverage station unclean with old food debris and dust. Clean within 7 days.
+Slight dust accumulation observed on fan guards in walk in cooler. Clean within 7 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 34
+
+WAREWASHING FACILITIES AND TESTING METHODS
+
+OBSERVATIONS: Quat sanitizer test strips expired. Replace within 7 days.
+
+CODE DESCRIPTION: Facilities that prepare food shall be equipped with a manual warewashing sink that has at least three compartments
+with two integral metal drainboards. A two compartment sink that was installed before January 1, 1996, need not be replaced when used in
+approved manner. Sink compartments shall be large enough to accommodate immersion of the largest equipment and utensils used.
+Testing materials shall be provided to adequately measure the applicable sanitization method used during manual or mechanical
+warewashing. (113984(e), 114067(f,g), 114099, 114099.3, 114099.5, 114101(a), 114101.1, 114101.2, 114103, 114107, 114125)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Dispenser pipe cut horizontally at milk dispenser. Cut at an angle within 24 hours.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: BRADSHAW CHEVRON
+CT
+
+FA
+
+PR
+
+91.03
+
+FA0031933
+
+11:50 am
+
+Time Out:
+
+12:50 pm
+
+Page:
+
+2 of 2
+
+EDWARD R MARSZAL ENTERPRISES, INC
+
+Permit Holder:
+City: Sacramento
+
+Address: 3300 BRADSHAW RD
+
+12/10/2015
+
+Time In:
+
+Phone (916)362-6336
+
+Zip Code: 95827
+PE
+
+Type of Inspection:
+
+PR0010586
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Lisa Reed
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+12/18/2019
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+ppm
+
+Hand Sink Temp
+
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Hot dog (TPHC) / Rolling case / 135.00 ºF
+
+Chicken sandwich (TPHC) / Warming case / 135.00 ºF
+
+Beef burrito / Deli display / 40.00 ºF
+
+Sealed milk / Walk in cooler / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Lisa Reed / Manager
+
+K. Fry
+
+Phone: (916)875-8445
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

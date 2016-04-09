@@ -1,0 +1,245 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: LA SUPERIOR MERCADO Y CARNICERIA
+FA
+70.01
+
+PR
+FA0005365
+
+Zip Code: 95833
+PE
+
+PR0005936
+
+12:30 pm
+
+Time Out:
+
+4:10 pm
+
+Page:
+
+1 of 2
+
+URIEL BARAJAS
+
+City: Sacramento
+
+Address: 2210 NORTHGATE BLVD
+CT
+
+Permit Holder:
+
+10/20/2015
+
+Time In:
+
+Phone (916)929-7095
+Type of Inspection:
+
+1613
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+OBSERVATIONS: No soap found inside of soap dispenser located at deli hand wash sink. Maintain soap inside soap dispenser unit
+at all times. Corrected on site.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Measured 50 ppm chlorine sanitizer concentration inside of sanitizer compartment of three compartment sink
+inside of deli department. Maintain chlorine sanitizer levels at/above 100 ppm at all times. Corrected on site.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: Observed ceiling around ventilation fan inside of customer restroom to be in chipped away. Correct within 30
+days.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: LA SUPERIOR MERCADO Y CARNICERIA
+CT
+
+FA
+
+PR
+
+70.01
+
+FA0005365
+
+12:30 pm
+
+Time Out:
+
+4:10 pm
+
+Page:
+
+2 of 2
+
+URIEL BARAJAS
+
+Permit Holder:
+City: Sacramento
+
+Address: 2210 NORTHGATE BLVD
+
+10/20/2015
+
+Time In:
+
+Phone (916)929-7095
+
+Zip Code: 95833
+PE
+
+Type of Inspection:
+
+PR0005936
+
+Routine
+
+1613
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Gonzalo Menera
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+50 ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+135 º F
+
+03/19/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+117 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Ambient / Produce walk in ref. / 39.00 ºF
+
+Milk / Walk in box (Back of market) / 39.00 ºF
+
+Eggs / Open face ref. (West side of market) / 39.00 ºF
+
+Chicken nuggets / Deli case / 39.00 ºF
+
+Milk / Open face ref. (East side of market) / 39.00 ºF
+
+Prepackaged hot dogs / Open face ref. (Next to Deli department) / 39.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Jose Sanchez / Manager
+
+T. Patel
+
+Phone: (916)875-8573
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

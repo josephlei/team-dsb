@@ -1,0 +1,273 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 6231 SUNRISE BLVD
+
+City: Citrus Heights
+
+FA
+81.41
+
+PR
+FA0006300
+
+Zip Code: 95610
+PE
+
+PR0006735
+
+11:10 am
+
+Time Out:
+
+1:00 pm
+
+Page:
+
+1 of 2
+
+RED LOBSTER HOSPITALITY LLC
+
+Facility Name: RED LOBSTER
+CT
+
+01/28/2016
+
+Time In:
+
+Phone (916)726-6694
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Nonfat yogurt mix in an ice bath at the bar was measured at 52 F. Keep yogurt mix at 41 F or below. Yogurt mix
+was relocated in refrigerator during inspection. REPEAT VIOLATION
+Minor Violation:
+Whipped butter in an ice bath at server station was at 46 F. Food was relocated in refrigerator during inspection.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 33
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Mold buildup on base cove tiles beneath draining board with sprayer in dishwashing area. Clean within 1 day.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Dust buildup on fan guard in reach-in refrigerator across the walk-in freezer. Employee cleaned fan guard during
+inspection.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Gap between hood filters above grill in cook's line. Correct today.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 6231 SUNRISE BLVD
+
+City: Citrus Heights
+
+FA
+
+PR
+
+81.41
+
+FA0006300
+
+11:10 am
+
+Time Out:
+
+1:00 pm
+
+Page:
+
+2 of 2
+
+RED LOBSTER HOSPITALITY LLC
+
+Facility Name: RED LOBSTER
+CT
+
+01/28/2016
+
+Time In:
+
+Phone (916)726-6694
+
+Zip Code: 95610
+PE
+
+Type of Inspection:
+
+PR0006735
+
+Routine
+
+1621
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Julie L Munden
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+07/30/2017
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+130 º F
+
+Hand Sink Temp
+
+ppm
+120 º F
+
+Heat
+
+184 º F
+
+Iodine
+
+Wiping Cloth
+
+100
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+loster / cooking temperature / 160.00 ºF
+
+half & half / bar cooler / 40.00 ºF
+
+salmon / upright refrigerator - cook's line / 41.00 ºF
+
+baked potatoes / under heat lamp / 164.00 ºF
+
+clam chowder / warmer / 175.00 ºF
+
+shredded jack cheese / walk-in refrigerator - produce / 40.00 ºF
+
+lobster / walk-in refrigerator - seafood / 38.00 ºF
+
+mashed potato / steam table / 190.00 ºF
+
+whipped butter / prep refrigerator - salad station / 40.00 ºF
+
+cheese cake / dessert cooler / 39.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Julie L Munden / Manager
+
+J. Ablang
+
+Phone: (916)875-8401
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+
