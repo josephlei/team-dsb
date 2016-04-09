@@ -11,7 +11,7 @@ A person need only **text "flu shot" to 31996** to enroll, regardless of if they
 
 When flu clinics are offered, info on the address, hours and a direct link to map + directions is automatically texted out, no user action is needed.
 
-Phone numbers are captured for future use, can un-enroll at any time
+Phone numbers are captured for future use, users can un-enroll at any time
 
 508A compliant! :D
 
@@ -22,10 +22,7 @@ Phone numbers are captured for future use, can un-enroll at any time
 ### Stakeholder Engagement
 
 - Laura McCasland, Sacramento County Dept. of Health & Human Services
-- Director/nonprofits/news or other stakeholders here
+- Megan Kregor, Sacramento County Dept. of Technology
 
 ### Developer Documentation
 This project utilizes an 3rd party service, No additional dependencies are required.
-
-### Additional Information
-[Include any additional information that you would like the judges to know about your project]
