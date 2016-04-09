@@ -28,7 +28,8 @@ Basic useage requires the use of the following:
 
 Automation development is being done with the following, but alternatives are available:
 - Python 2.7x
-- Pandas
+- Pandas library
+- Native csv, datetime, re (for regex) libraries
 - Unix/Linux native shell scripting
 
 ### Additional Information (optional)
