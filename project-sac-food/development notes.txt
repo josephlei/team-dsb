@@ -43,6 +43,7 @@ MAKE DARN SURE YOU RM THE VIOLATIONS FILE BEFORE, RECURSION WILL BLOW YOUR COMPU
 
 newer better solution:
 	ls *.txt | xargs -n1 grep '#' > ../test.txt
+	
 	find . | xargs -n1 grep -H '# \d' > ../violations_new.txt #this works when ls * limits out
 
 to get specialist info:
@@ -62,3 +63,7 @@ use nohup to run headless
 
 git checkout switches branch 
 git branch -d branchname deletes branch, warning if not fully merged
+
+steps:
+scp down txt files
+find . | xargs -n1 grep -H '# \d' > ../violations_new.txt

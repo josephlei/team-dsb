@@ -28,7 +28,16 @@ sed s/\.\//\ / v
 
 
 
-#magical winner
+#magical winner, but make sure to enter tabs as necessary using ^v + tab
 
 
 sed -e '/Address/d' -e 's@{.*}@	@' -e 's@\./@@' -e 's@\.txt:# @	@' input.txt > output.txt
+
+'/Address/d'				delete if contains this
+'s@{.*}@	@'				change to tab
+'s@\./@@'					remove
+'s@\.txt:# @	@'			change to tab
+
+sed s option = substitute
+
+sed -e 's@\./@@'

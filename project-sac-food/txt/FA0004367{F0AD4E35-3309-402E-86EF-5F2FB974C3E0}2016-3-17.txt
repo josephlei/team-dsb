@@ -1,0 +1,266 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAINT FRANCIS MANOR
+
+Permit Holder:
+
+CT
+
+FA
+14.00
+
+PR
+FA0004367
+
+11:40 am
+
+Time Out:
+
+12:40 pm
+
+Page:
+
+1 of 2
+
+SAINT FRANCIS MANOR
+
+City: Sacramento
+
+Address: 2515 J ST
+
+03/17/2016
+
+Time In:
+
+Zip Code: 95816
+PE
+
+PR0004816
+
+Phone (916)447-1939
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1b
+
+FOOD SAFETY CERTIFICATION
+
+OBSERVATIONS: Lack food safety certificate. Provide within 30 days.
+
+CODE DESCRIPTION: Food facilities that prepare, handle, or serve non-prepackaged potentially hazardous food, shall have an employee
+who has passed an approved food safety certification examination. (113947.1)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: The following areas observed unclean:
+*floor below cook's line
+*in between sink basins at 2 compartment sink
+*on floor, in hard to reach areas, below large equipment
+*fan in upright cooler near entrance door
+*light switches for exhaust hood and exhaust lighting
+Correct within 72 hours and maintain.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 44b
+
+APPROPRIATE USE OF EQUIPMENT
+
+OBSERVATIONS: Two compartment sink that is directly plumbed to sewer is used as a preparation sink. Immediately cease practice
+and use preparation sink that drains in an approved manner into floor sink. Correct immediately. NOTE: approved preparation sink
+on site.
+
+CODE DESCRIPTION: Employees shall not clean their hands in a sink used for food preparation, warewashing, or in a service sink or a
+curbed cleaning facility used for the disposal of mop water and similar liquid waste. A handwashing facility shall not be used for purposes
+other than handwashing. Food preparation sinks, handwashing lavatories, and warewashing equipment shall not be used for the cleaning
+of maintenance tools, the preparation or holding of maintenance materials, or the disposal of mop water and similar liquid wastes. Open-air
+barbecue or outdoor wood-burning oven shall be operated on the same premises as, in reasonable proximity to, and in conjunction with, a
+permanent food facility that is approved for food preparation. (113953.1 (b-d), 114123, 114143 (a,b), Exception 114125)
+
+# 44e
+
+VERMIN AND ANIMAL EXCLUSION
+
+OBSERVATIONS: Back door and screen door propped open. Corrected.
+
+CODE DESCRIPTION: A food facility shall at all times be constructed, equipped, and maintained as to prevent the entrance and harborage
+of animals, birds, and vermin, including, but not limited to, rodents and insects. Doors opening to outside air shall have a self-closing device
+and have no gaps greater than 1/4 inch when closed. Insect control devices shall be installed so that the devices are not located over a food
+or utensil handling areas. Pass-thru windows shall be of an approved size and be equipped with a self-closing device and air curtain if
+required. (114259, 114259.2, 114259.3)
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: Once missing cove base tile on floor below glove station. Correct within 30 days.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAINT FRANCIS MANOR
+CT
+
+FA
+
+PR
+
+14.00
+
+FA0004367
+
+11:40 am
+
+Time Out:
+
+12:40 pm
+
+Page:
+
+2 of 2
+
+SAINT FRANCIS MANOR
+
+Permit Holder:
+City: Sacramento
+
+Address: 2515 J ST
+
+03/17/2016
+
+Time In:
+
+Phone (916)447-1939
+
+Zip Code: 95816
+PE
+
+Type of Inspection:
+
+PR0004816
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+
+# 49
+
+PERMIT REQUIREMENTS
+
+OBSERVATIONS: Facility has undergone a change of ownership. Provide application for permit to operate with updated information
+and fees within 7 days. Application provided.
+
+CODE DESCRIPTION: A food facility shall not be open for business without a valid permit. Permit shall be posted in a conspicuous place
+within the food facility. (114067(b, c), 114381, 114387)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+missing
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+120 º F
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+167 º F
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+milk / upright cooler / 39.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Sam Snider / Kitchen Manager
+
+A. Daniels
+
+Phone: (916)875-8417
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,250 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: STARBUCKS
+
+Permit Holder:
+
+CT
+
+FA
+11.01
+
+PR
+FA0045961
+
+9:30 am
+
+Time Out:
+
+10:30 am
+
+Page:
+
+1 of 2
+
+HCV PACIFIC PARTNERS
+
+City: Sacramento
+
+Address: 1123 12TH ST
+
+03/28/2016
+
+Time In:
+
+Zip Code: 95814
+PE
+
+PR0096099
+
+Phone (916)321-3595
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Half & half at 47F in self-serve carafe. Maintain food cold at 41F or below. Correct immediately.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to
+the required holding temperatures. (113996, 113998, 114037)
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: Water at 94F at handwash sink in coffee prep area. Maintain water at 100F or above. Correct within 24 hours.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Observed sanitizer at 0ppm in wiping cloth buckets. Claims that buckets were just changed out. Tested sanitizer
+at source/3-compartment sink and sanitizer levels were at 0ppm. Supply container of sanitizer was empty. Maintain sanitizer at
+200ppm QA. Correct immediately. Supply container was replaced during inspection.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Leak from plumbing of handwash sink in coffee prep area. Repair within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: STARBUCKS
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+11.01
+
+FA0045961
+
+9:30 am
+
+Time Out:
+
+10:30 am
+
+Page:
+
+2 of 2
+
+HCV PACIFIC PARTNERS
+
+City: Sacramento
+
+Address: 1123 12TH ST
+
+03/28/2016
+
+Time In:
+
+Phone (916)321-3595
+
+Zip Code: 95814
+PE
+
+Type of Inspection:
+
+PR0096099
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Kalila Ahmad
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+
+Ware Sink Temp
+
+120 º F
+
+Hand Sink Temp
+
+0
+
+ppm
+
+94 º F
+
+Heat
+
+160 º F
+
+Wiping Cloth
+
+11/09/2020
+Iodine
+0
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+milk / 2-door reach-in refrigerator / 41.00 ºF
+
+milk / 2-door upright refrigerator / 42.00 ºF
+
+sandwich / 1-door reach-in refrigerator / 30.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Coryn Peart / Sup
+
+S. Andrusiak
+
+Phone: (916)875-8440
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

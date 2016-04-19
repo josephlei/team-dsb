@@ -1,0 +1,281 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: RITE AID #6080
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+55.06
+
+FA0019487
+
+Zip Code: 95825
+PE
+
+PR0049309
+
+1:20 pm
+
+Time Out:
+
+2:20 pm
+
+Page:
+
+1 of 2
+
+RITE AID CORP
+
+City: Sacramento
+
+Address: 1309 FULTON AVE
+
+04/08/2016
+
+Time In:
+
+Phone (916)483-3486
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+MAJOR
+
+OBSERVATIONS: Handwashing sink in men's restroom was empty. Corrected.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 1b
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+FOOD SAFETY CERTIFICATION
+
+OBSERVATIONS: Food safety certificate has expired. Renew within 60 days.
+
+CODE DESCRIPTION: Food facilities that prepare, handle, or serve non-prepackaged potentially hazardous food, shall have an employee
+who has passed an approved food safety certification examination. (113947.1)
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+OBSERVATIONS: Observed hydrogen peroxide stored above containers of liquid cold/flu medication on Aisle 26. Keep chemicals
+below consumable products (food/medicine). Correct today.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination
+of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food
+facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall
+be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: 2 of 3 floor sinks in front of reach-in refrigerator units are unclean. Correct within 7 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Secondary hose bibb backflow device missing from Y-splitter at mop sink. Provide between hose and Y-splitter
+within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: RITE AID #6080
+CT
+
+FA
+
+PR
+
+55.06
+
+FA0019487
+
+1:20 pm
+
+Time Out:
+
+2:20 pm
+
+Page:
+
+2 of 2
+
+RITE AID CORP
+
+Permit Holder:
+City: Sacramento
+
+Address: 1309 FULTON AVE
+
+04/08/2016
+
+Time In:
+
+Phone (916)483-3486
+
+Zip Code: 95825
+PE
+
+Type of Inspection:
+
+PR0049309
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Observed trash debris accumulation in corner of dumpster pad. Clean today.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be
+kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at
+all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and
+other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+# 49
+
+PERMIT REQUIREMENTS
+
+OBSERVATIONS: Health permit is not available. Copy of permit was emailed to operator at the time of inspection. Print and hang
+with other permits within 7 days.
+
+CODE DESCRIPTION: A food facility shall not be open for business without a valid permit. Permit shall be posted in a conspicuous place
+within the food facility. (114067(b, c), 114381, 114387)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Expired
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+
+Ware Sink Temp
+
+144 º F
+
+Hand Sink Temp
+
+ppm
+144 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+raw bacon / "deli" reach-in cooler door / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Bruce Kaufman / Store Manager
+
+S. LePage
+
+Phone: (916)875-8449
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

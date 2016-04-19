@@ -1,0 +1,252 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: PEET'S COFFEE & TEA
+
+Permit Holder:
+
+CT
+
+FA
+96.11
+
+PR
+FA0019938
+
+Zip Code: 95758
+PE
+
+PR0051114
+
+11:15 am
+
+Time Out:
+
+12:15 pm
+
+Page:
+
+1 of 2
+
+PEET'S OPERATING COMPANY INC
+
+City: Elk Grove
+
+Address: 8234 LAGUNA BLVD 100
+
+04/04/2016
+
+Time In:
+
+Phone (916)683-7191
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: Hot water at the 3 compartment washing sink measured at a maximum of 115F. Correct immediately.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Damaged caulking observed above 3 compartment washing sink. Correct within 30 days.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare foods
+shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching and
+scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2, 114130.3,
+114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 36
+
+EQUIPMENT STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Tongs hanging on cutting board observed with exposed food contact parts. Relocate to prevent contamination.
+Correct now. 3RD REPEAT VIOLATION
+
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an
+approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be
+exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and
+food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean sanitized
+surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled, displayed, and
+dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely fastened to rigid
+structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3, 114185.4, 114185.5)
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: Missing coving tile on one side below service line area of merchandiser/wall. Correct 30 days. 2ND REPEAT
+VIOLATION
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base coving
+shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the juncture
+of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268, 114268.1,
+114271, 114272)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: PEET'S COFFEE & TEA
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+96.11
+
+FA0019938
+
+11:15 am
+
+Time Out:
+
+12:15 pm
+
+Page:
+
+2 of 2
+
+PEET'S OPERATING COMPANY INC
+
+City: Elk Grove
+
+Address: 8234 LAGUNA BLVD 100
+
+04/04/2016
+
+Time In:
+
+Phone (916)683-7191
+
+Zip Code: 95758
+PE
+
+Type of Inspection:
+
+PR0051114
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Jennifer Mounthoy
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+50 ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+115 º F
+
+03/13/2020
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+100 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+ambient / stand up cooler / 43.00 ºF
+
+ambient / self serve merchandiser / 41.00 ºF
+
+ambient / milk merchandiser / 41.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Melissa Geiger / Shift Lead
+
+S. Moua
+
+Phone: (916)876-8889
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,277 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MCDONALD'S
+
+Permit Holder:
+
+CT
+
+FA
+24.00
+
+PR
+FA0003488
+
+11:25 am
+
+Time Out:
+
+12:30 pm
+
+Page:
+
+1 of 2
+
+HARRIS LIU
+
+City: Sacramento
+
+Address: 2985 FREEPORT BLVD
+
+04/05/2016
+
+Time In:
+
+Zip Code: 95818
+
+Phone (916)443-7632
+
+PE
+PR0008004
+
+Type of Inspection:
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Eggs and shredded cheese at 50 F in walk-in refrigerator. Ambient temperature of unit is also 50 F. Repair/adjust
+unit today to ensure potentially hazardous foods (PHFs) are maintained at 41 F or less.
+Whip cream in salad refrigerator at 50 F. Ambient temperature of unit at about 50 F. Manager adjusted temperature setting during
+inspection. Observed temperature to be approximately 40 F at end of inspection.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to
+the required holding temperatures. (113996, 113998, 114037)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Light out in walk-in freezer. Replace in an approved manner within 5 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient ventilation
+to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or light-switch
+activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in areas where open
+food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with light shields. (114149,
+114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: No air-gap provided for drain line to floor sink near soda carbonator. Provide minimum of 1-inch air gap to floor
+sink within 7 days.
+Vacuum breaker not available on mop sink. A "Y" connection is attached to mop sink faucet and also lacks vacuum breakers.
+Provide vacuum breaker on both Y connections. Correct within 7 days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+# 47a
+
+SIGNS POSTED AS REQUIRED
+
+OBSERVATIONS: Valid permit is not available. Ensure valid permit is posted in visible area. Correct within 5 days.
+
+CODE DESCRIPTION: Handwashing signs directing employees to wash hands after using the restroom shall be posted in each toilet room
+used by food employees. No smoking signs shall be posted in food preparation, food storage, warewashing, and utensil storage areas. Food
+facilities constructed without a public toilet prior January 1, 2004, shall post a sign in a prominant area within the food facility, stating that toilet
+facilities are not provided. (113953.5, 113978, 114276 (f)).
+
+# 47c
+
+INSPECTION REPORT AVAILABILITY
+
+OBSERVATIONS: Last inspection report is not available. Correct today.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: MCDONALD'S
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+24.00
+
+FA0003488
+
+11:25 am
+
+Time Out:
+
+12:30 pm
+
+Page:
+
+2 of 2
+
+HARRIS LIU
+
+City: Sacramento
+
+Address: 2985 FREEPORT BLVD
+
+04/05/2016
+
+Time In:
+
+Phone (916)443-7632
+
+Zip Code: 95818
+PE
+
+Type of Inspection:
+
+PR0008004
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: A copy of the most recent routine inspection report conducted to assess compliance with this part shall be maintained
+at the food facility and made available upon request. The food facility shall post a notice advising consumers that a copy of the most recent
+routine inspection report is available for review by any interested party. (113725.1)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Angelina Martinez
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+132 º F
+
+10/29/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+300
+
+ppm
+
+118 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Sausage / final cooking temperature / 160.00 ºF
+
+ambient / 2-door reach in refrigerator / 38.00 ºF
+
+10 to 1 hamburger / final cooking temperature / 165.00 ºF
+
+soft-serve / reach-in unitws / 37.00 ºF
+
+McChicken patty / warming unit / 155.00 ºF
+
+4 to 1 hamburger / warming unit / 163.00 ºF
+
+10 to 1 hamburger / warming unit / 177.00 ºF
+
+McChicken / final cooking temperature / 189.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Amber / Manager
+
+M. Bilodeau
+
+Phone:
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

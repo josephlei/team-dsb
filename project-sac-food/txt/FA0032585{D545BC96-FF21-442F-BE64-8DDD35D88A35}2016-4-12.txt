@@ -1,0 +1,257 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: STARBUCKS COFFEE
+
+Permit Holder:
+
+Address: 1140 EXPOSITION BLVD 100
+
+City: Sacramento
+
+CT
+
+FA
+69.00
+
+PR
+FA0032585
+
+10:15 am
+
+Time Out:
+
+11:30 am
+
+Page:
+
+1 of 2
+
+STARBUCKS CORPORATION
+Zip Code: 95815
+PE
+
+PR0066386
+
+04/12/2016
+
+Time In:
+
+Phone (916)925-5693
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Half & half inside carafes stored at self-service condiment station measured 54F and 48F. Items and carafes that
+were holding them were discarded at the time of inspection.
+Half & half stored in carafe located inside left side of 3-door reach-in cooler that will be eventually placed out at condiment station
+measured 47F. Ambient temperature on this side of unit measured 37.4F. Milk that was opened by operator in order to take
+temperature that is located on the right side of the same unit measured 37F.
+NOTE: It appears that facility is correctly following company SOPs regarding this practice. Ensure that the carafes are cold to start
+with and that the milk used to fill them measures well below 41F so that items will maintain temperature of 41F/below.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return to
+the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 21
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: Hot water at 3-comp ware sink measured 118F. Corrected to 146 F at the time of inspection.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Shared dumpster left open with lids pinned open between dumpsters and wall. Recommend contacting waste
+hauler and requesting lids are closed after they are emptied by driver. Correct within 3 days.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be kept
+in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at all
+times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and other
+conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: STARBUCKS COFFEE
+
+Permit Holder:
+
+Address: 1140 EXPOSITION BLVD 100
+
+City: Sacramento
+
+CT
+
+FA
+
+PR
+
+69.00
+
+FA0032585
+
+04/12/2016
+
+Time In:
+
+10:15 am
+
+Time Out:
+
+11:30 am
+
+Page:
+
+2 of 2
+
+STARBUCKS CORPORATION
+Phone (916)925-5693
+
+Zip Code: 95815
+PE
+
+Type of Inspection:
+
+PR0066386
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700.
+All violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the
+potential to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Tokiko Sawada
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+118 º F
+
+Hand Sink Temp
+
+ppm
+109 º F
+
+Heat
+
+165 º F
+
+Wiping Cloth
+
+02/12/2021
+Iodine
+300
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+2% milk / fridge #2 / 37.00 ºF
+
+ambient / fridge #1 / 37.00 ºF
+
+half & half / fridge #4 / 40.00 ºF
+
+2% milk / fridge #3 / 39.00 ºF
+
+ambient / fridge #5 / 42.00 ºF
+
+ambient / 3-door upright reach-in / 37.40 ºF
+
+ambient / self-service merchandiser / 37.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with
+all applicable sections of the California Health and Safety Code. If a reinspection is required, fees may
+be assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Tokiko Sawada / Store Manager
+
+S. LePage
+
+Phone: (916)875-8449
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

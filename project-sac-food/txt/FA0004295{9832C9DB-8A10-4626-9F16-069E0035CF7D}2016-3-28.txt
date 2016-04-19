@@ -1,0 +1,274 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: BURGEROCITY
+
+Permit Holder:
+
+CT
+
+FA
+85.04
+
+PR
+FA0004295
+
+Zip Code: 95630
+PE
+
+PR0002612
+
+2:00 pm
+
+Time Out:
+
+3:09 pm
+
+Page:
+
+1 of 2
+
+LORENA DIAS SANCHEZ & MARIO VASQUEZ PEREZ
+
+City: Folsom
+
+Address: 157 IRON POINT RD
+
+03/28/2016
+
+Time In:
+
+Phone (916)351-5777
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Housemade garlic in oil mixture at 59 F in squeeze bottle. The bottle was in an ice bath. Bottle had been out less
+than 4 hours and ice bath was refreshed to exceed the level of the mixture in the bottle. Corrected.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 5b
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+BARE HAND CONTACT AND GLOVE USE
+
+OBSERVATIONS: Observed employees handling raw meat while wearing fitted latex gloves, removing gloves then donning new
+gloves to continue food preparation without hand washing. No direct contamination of hands observed. Wash hands between
+gloves changes.
+
+CODE DESCRIPTION: Employees shall minimize bare hand contact with nonprepackaged ready-to-eat food. Single-use gloves shall be
+used for only one task and shall be discarded when damaged or soiled, or when interruptions in the food handling occur. Gloves shall be
+changed as often as handwashing is required. Slash-resistant gloves may be used with ready-to-eat food if the gloves have a smooth,
+durable, nonabsorbent surface, or are covered with a single-use glove. (113961, 113973 (b,c,e))
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Leak observed at walk in freezer condenser. Repair within 14 days. Remove excess ice build up, as needed. No
+food is stored in this area.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Leak under middle compartment of 3 compartment sink. Leak is currently being caught in a bucket. Repair - 14
+days.
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: BURGEROCITY
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+85.04
+
+FA0004295
+
+2:00 pm
+
+Time Out:
+
+3:09 pm
+
+Page:
+
+2 of 2
+
+LORENA DIAS SANCHEZ & MARIO VASQUEZ PEREZ
+
+City: Folsom
+
+Address: 157 IRON POINT RD
+
+03/28/2016
+
+Time In:
+
+Phone (916)351-5777
+
+Zip Code: 95630
+PE
+
+Type of Inspection:
+
+PR0002612
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Mario Vasquez Perez
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+134 º F
+
+04/26/2019
+
+Expiration Date
+
+Hand Sink Temp
+
+200
+
+ppm
+
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+200
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+swiss cheese / walk in refrigerator / 39.00 ºF
+
+grilled onions / steam table / 197.00 ºF
+
+chopped tomatoes / prep reach in refrigerator / 37.00 ºF
+
+blue cheese / prep line / 41.00 ºF
+
+hamburger patty / final cooking temperature / 169.00 ºF
+
+NOTES
+
+Notes:
+-Post current permit upon receipt
+-Provide proof of food handler cards for all employees who are not food safety manager certified within 30 days of change of ownership.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Mario Perez / Owner
+
+S. Cardozo
+
+Phone: (916)876-8850
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

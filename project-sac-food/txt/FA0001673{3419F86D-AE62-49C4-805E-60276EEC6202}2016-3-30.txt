@@ -1,0 +1,264 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: GERMAN DELI
+
+Permit Holder:
+
+Address: 5859 AUBURN BLVD
+
+City: Sacramento
+
+CT
+
+FA
+81.31
+
+PR
+FA0001673
+
+03/30/2016
+
+Time In:
+
+2:15 pm
+
+Time Out:
+
+3:15 pm
+
+Page:
+
+1 of 2
+
+MICHAEL R SMITH
+Zip Code: 95841
+PE
+
+PR0001782
+
+Phone (916)349-3493
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Dishes were rinsed after sanitizing them. Don't sanitize them after sanitizing. Correct immediately.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 27
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: Uncooked bacon stored along with bread in chest freezer. Correct immediately.
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 32b
+
+COMPLIANCE WITH TRANS FAT BAN
+
+OBSERVATIONS: Prepackaged bread in customer area lacking nutrient information/transfat information. Correct within 7 days or
+remove.
+
+CODE DESCRIPTION: No food containing artificial trans fat may be stored, distributed, served by, or used in the preparation of any food
+within a food facility. Every food facility shall maintain on the premises, the label for any food that contains fat, oil, or shortening, for as long
+as this food is stored, distributed, served by, or used in the preparation of food within the food facility. Food sold or served in a
+manufacturer's original sealed package is exempt from this requirement. (114377)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Unapproved paper liner used on wooden shelves in back room. Remove within 3 days.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 45
+
+FLOOR, WALL, AND CEILING FINISHES
+
+OBSERVATIONS: -Shelving under the warewashing sink has unfinished wood. Provide approved finish within 7 days.
+<REPEAT VIOLATION>
+-Shelving in back room for utensils have unfinished wood. Provide approved finish within 2 weeks.
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 5859 AUBURN BLVD
+
+City: Sacramento
+
+FA
+
+PR
+
+81.31
+
+FA0001673
+
+2:15 pm
+
+Time Out:
+
+3:15 pm
+
+Page:
+
+2 of 2
+
+MICHAEL R SMITH
+
+Facility Name: GERMAN DELI
+CT
+
+03/30/2016
+
+Time In:
+
+Phone (916)349-3493
+
+Zip Code: 95841
+PE
+
+Type of Inspection:
+
+PR0001782
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Food facilities shall be fully enclosed in a building consisting of permanent floors, walls, and an overhead structure
+that meets minimum standards. The walls and ceiling shall be smooth, durable, nonabsorbent, and easily cleanable. Flooring and base
+coving shall be smooth, durable, and made of approved nonabsorbent material that is easily cleanable. Floor surfaces shall be coved at the
+juncture of the floor and wall with a 3/8 inch minimum radius and shall extend up the wall at least 4 inches. (114143 (d), 114266, 114268,
+114268.1, 114271, 114272)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Allyson Smith
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+03/21/2018
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+128 º F
+
+Hand Sink Temp
+
+200
+
+ppm
+
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+sliced tomatoes / cold top / 34.00 ºF
+
+sausage / walkin refrigerator / 38.00 ºF
+
+cheese / cold display case / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Allyson Smith / owner
+
+R. Singh
+
+Phone: (916)876-7587
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,263 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: PIZZA HOUSE
+
+Permit Holder:
+
+CT
+
+FA
+32.02
+
+PR
+FA0006071
+
+Zip Code: 95824
+PE
+
+PR0007688
+
+11:15 am
+
+Time Out:
+
+12:20 pm
+
+Page:
+
+1 of 2
+
+PETER ARNAUT
+
+City: Sacramento
+
+Address: 5623 STOCKTON BLVD
+
+03/26/2016
+
+Time In:
+
+Phone (916)454-4545
+Type of Inspection:
+
+1622
+
+Reinspection
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Shredded cheese inside cold inserts measured at 46F, ground beef 48F, chicken 47F, and ground beef inside
+reach in cooler of the same unit at 45F, cheese 45F, and chicken 45F. Ambient temperature of reach in cooler at 45F. Reduce
+thermostat immediately to keep all potentially hazardous foods at/ below 41F.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 23
+
+VERMIN AND ANIMAL CONTAMINATION
+
+OBSERVATIONS: Several dying/dead cockroaches observed: one dying German cockroach inside closet next to mop sink, two
+juvenile dying inside mop sink, one adult dead at the office entrance, 3 dying and 2 dead on the floor nearby mop sink. Facility had a
+pest control service this morning by "Family pest control". Clean all areas immediately.
+
+CODE DESCRIPTION: A food facility shall at all times be equipped, maintained, and operated as to prevent the entrance and harborage of
+animals, birds, and vermin, including, but not limited to rodents and insects. (114259, 114259.1, 114259.4, 114259.5)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Fan guards inside walk in cooler and the ceiling above the fans are accumulated with mold. See report dated
+3/25/16 for corrective actions.
+Dust accumulation inside hood vents. See report dated 3/25/16 for corrective actions.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Inadequate lighting at the hall way leading to restroom. See report dated 3/25/16 for corrective actions.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Hard to monitor thermometer inside prep reach in cooler. Place it where it can be visible and easily monitored.
+Correct today.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: PIZZA HOUSE
+CT
+
+FA
+
+PR
+
+32.02
+
+FA0006071
+
+11:15 am
+
+Time Out:
+
+12:20 pm
+
+Page:
+
+2 of 2
+
+PETER ARNAUT
+
+Permit Holder:
+City: Sacramento
+
+Address: 5623 STOCKTON BLVD
+
+03/26/2016
+
+Time In:
+
+Phone (916)454-4545
+
+Zip Code: 95824
+PE
+
+Type of Inspection:
+
+PR0007688
+
+Reinspection
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 44a
+
+PREMISES KEPT FREE OF UNUSED EQUIPMENT
+
+OBSERVATIONS: Disconnected grease trap beneath 3 compartment sink. See report dated 3/25/16 for corrective actions.
+
+CODE DESCRIPTION: The premises of a food facility shall be kept free of items that are unnecessary to the operation or maintenance of
+the facility, such as equipment that is nonfunctional or no longer used. (114257.1.)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+Expiration Date
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+ºF
+
+Hand Sink Temp
+
+ppm
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+ºF
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+No Temperature Data Reported
+
+NOTES
+
+Re-inspection conducted to follow up with major violations observed during 3/25/16 routine inspection resulted in yellow placard. Major
+violations have been corrected. Facility received green placard.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Denis Arnaut / Mgr
+
+J. Terefe
+
+Phone: (916)876-7882
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

@@ -1,0 +1,279 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: GNC KUSINA ATBP
+
+Permit Holder:
+
+Address: 4301 TRUXEL RD STE D5
+
+City: Sacramento
+
+CT
+
+FA
+70.18
+
+PR
+FA0040908
+
+03/14/2016
+
+Time In:
+
+12:50 pm
+
+Time Out:
+
+2:00 pm
+
+Page:
+
+1 of 2
+
+KUSING ATBP LLC
+Zip Code: 95834
+PE
+
+PR0079152
+
+Phone (916)769-0736
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Measured 2 individually wrapped Tikoy w/ cheese (contains eggs and cheese) stored at room temperature on
+front counter at 70 F. Wife of owner stated she make daily in morning. 2 packages were discarded during inspection. Maintain at 41
+F and below or 135 F and above. Another option is time as public health control.
+Measured chicken adobo on steam table at 127 F on top layer of food that was over stocked. Maintain at 135 F and above.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 30b
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+FOOD CONTAINERS LABELED
+
+OBSERVATIONS: Bulk food containers in back lack labels. Label within 7 days.
+
+CODE DESCRIPTION: Containers holding food or food ingredients that are removed from their original packaging shall be identified with the
+common name of the food. (114051)
+
+# 32a
+
+FOOD PRESENTATION AND LABELING
+
+OBSERVATIONS: Cassava (made at facility according to wife of owner) lacks all ingredients on label. Also several packaged and
+repackaged products lack business name and address plus net weight. Correct within 7 days.
+
+CODE DESCRIPTION: Food offered for human consumption shall be honestly presented in a way that does not mislead or misinform the
+consumer. Food packaged in a food facility shall bear a label that complies with the labeling requirements prescribed by the Sherman Food,
+Drug, and Cosmetic Law which include: common name of the food, ingredients list, quantity of contents, name and address of
+manufacturer, nutritional information as specified in 21 C.F.R. (114087, 114088, 114089, 114089.1(a, b), 114090, 114093.1)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: The following areas found unclean; grease equipment and floor under hood, floor under upright freezer noted with
+debris, debris on rail of chest freezer in retail area, dust buildup on ceiling tile around vents in kitchen. Clean within 72 hours and
+maintain.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Gasket to 2-door upright refrigerator is deteriorated. Correct within 3 weeks.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Permit Holder:
+
+Address: 4301 TRUXEL RD STE D5
+
+City: Sacramento
+
+FA
+
+PR
+
+70.18
+
+FA0040908
+
+12:50 pm
+
+Time Out:
+
+2:00 pm
+
+Page:
+
+2 of 2
+
+KUSING ATBP LLC
+
+Facility Name: GNC KUSINA ATBP
+CT
+
+03/14/2016
+
+Time In:
+
+Phone (916)769-0736
+
+Zip Code: 95834
+PE
+
+Type of Inspection:
+
+PR0079152
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Quaternary ammonia sanitizer under front counter measured at 0 ppm quaternary ammonia. Corrected.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Mark Jason Molina
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+127 º F
+
+01/19/2021
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+127 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+0
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+pork / 2-door upright / 39.00 ºF
+
+egg plant and beef / steam table / 137.00 ºF
+
+beef / prep cooler / 40.00 ºF
+
+NOTES
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Nelda Vargas / Wife of owner
+
+A. Sharma
+
+Phone: (916)875-4842
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

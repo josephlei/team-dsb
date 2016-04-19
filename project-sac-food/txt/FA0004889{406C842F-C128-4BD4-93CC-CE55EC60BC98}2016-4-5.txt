@@ -1,0 +1,597 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: HINGS CHINESE RESTAURANT
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+76.01
+
+FA0004889
+
+Zip Code: 95841
+PE
+
+PR0005422
+
+1:50 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+1 of 5
+
+ALAN LAM
+
+City: Sacramento
+
+Address: 5800 MADISON AVE Q
+
+04/05/2016
+
+Time In:
+
+Phone (916)334-0760
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+MAJOR
+
+OBSERVATIONS: Duck was found being thawed under running water in the kitchen handwash sink. Do not use handwash sinks for
+any other purpose; if you have to move something to be able to wash your hands, that hand sink is considered blocked. Handwash
+sinks must always be accessible and fully stocked with soap and paper towels so that handwashing by employees is made not only
+possible, but also likely. Corrected during the inspection.
+Note: Per manager, they have been washing hands in the small sink at the end of the food prep island across from the cook's line.
+While soap and paper towels may have been provided, this sink should not be used as a handwash sink until a metal splash guard
+(with a height of at least 6 inches, the corners of the barrier to be rounded) is installed around the sides and back of the sink. Food
+is currently being prepped and stored around this sink and must be protected from splashes when washing hands.
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+For more information on this violation please watch the following Food Safety video:
+
+English
+#7
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Raw chicken, raw beef, raw pork and shrimps in open cold inserts at cook's line were measured from 43 to 49 F
+using a thermocouple. Ambient air temperature inside the reach-in portion under the cold inserts was measured at 37 F. Ambient
+air temperatures inside the reach-in portion of this refrigeration unit (under the inserts) were measured at 37 to 38 F. Inserts were
+found not overfilled. Ambient air temperature above the inserts was measured at 88 F. A large lid was available for covering the
+inserts but this was not being used regularly because of its size and weight. The option of using lids for individual inserts
+containing potentially hazardous foods (PHF) was recommended to the manager. Food temperatures must be checked using a
+probe thermometer frequently and regularly to ensure that these are at 41 F or below. Large lid was used to cover all the inserts
+during the inspection.
+- THIRD REPEAT VIOLATION - (Observed and written up during the last FOUR routine inspections)
+* See important note about a mandatory reinspection in the Notes section below.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+#9
+
+COOLING METHODS
+
+OBSERVATIONS: Chow mein at 54 F observed being improperly cooled five-inch deep in a covered container inside walk-in
+refrigerator. Per cook, this was cooked about 3 1/2 hours before. Some of the chow mein was moved into another container and the
+containers were left uncovered to facilitate rapid cooling. Put food items being cooled in containers no deeper than 2 inches.
+Cover containers when chow mein has cooled down 41 F or below.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be rapidly cooled from 135F to 70F within 2 hours, and then from 70F to 41F within
+4 hours. Cooling shall be by one or more of the following methods: in shallow containers, separating food into smaller portions, adding ice
+as an ingredient, using an ice bath, stirring frequently, using rapid cooling equipment, or using containers that facilitate heat transfer.
+(114002, 114002.1)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: HINGS CHINESE RESTAURANT
+
+Permit Holder:
+
+CT
+
+FA
+76.01
+
+PR
+FA0004889
+
+Zip Code: 95841
+PE
+
+PR0005422
+
+1:50 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+2 of 5
+
+ALAN LAM
+
+City: Sacramento
+
+Address: 5800 MADISON AVE Q
+
+04/05/2016
+
+Time In:
+
+Phone (916)334-0760
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 27
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: Ice buildup observed on top of food containers and water leaking on other covered food items under the
+condenser unit of walk-in freezer (no evidence of direct contamination found at time of inspection). Food items were removed from
+under the leaks and additional put catch pans were temporarily put under the leaks during the inspection. (See related violation
+#35.a.)
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+OBSERVATIONS: Spray bottle with unidentified liquid contents found at warewash area. Label all chemicals and bottles. Correct
+today.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination
+of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food
+facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall
+be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 30a
+
+FOOD STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Cut vegetables and potatoes found stored directly on walk-in refrigerator floor. Food and food contact items shall
+be stored at least 6 inches above the floor. Correct today.
+- Repeat Violation -
+
+CODE DESCRIPTION: Food items shall be stored at least six inches above the floor in an approved location within the fully enclosed
+permitted food facility. Food shall not be exposed to splash, dust, vermin, or other forms of contamination or adulteration. Prepackaged
+food may not be stored in direct contact with ice if the food is subject to the entry of water because of the nature of it's packaging.
+Non-prepackaged food may not be stored in direct contact with undrained ice. (114047, 114049, 114053, 114055, 114069 (b))
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Dust accumulation observed on walk-in refrigerator fan and on ceiling above main kitchen area. Correct within 3
+days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: HINGS CHINESE RESTAURANT
+
+Permit Holder:
+
+CT
+
+FA
+76.01
+
+PR
+FA0004889
+
+Zip Code: 95841
+PE
+
+PR0005422
+
+1:50 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+3 of 5
+
+ALAN LAM
+
+City: Sacramento
+
+Address: 5800 MADISON AVE Q
+
+04/05/2016
+
+Time In:
+
+Phone (916)334-0760
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OBSERVATIONS: a. Repair leaking walk-in freezer condenser within 7 days.
+- Repeat Violation b. Old carton observed being used as container for fried noodles on top of sheld across from the cook's line. Use food grade
+containers which are smooth, non-permeabkle and easily cleanable. Correct within 24 hours.
+c. Bowl being used a s scoop for cut vegetables in container on the walk-in refrigerator floor. Provide approved scoop with a
+handle within 2 days.
+d. Ambient temperature inside back counter bar refrigerator was measured at 53 F. Manager stated it lacked refrigerant. Have the
+unit serviced or repaired and do not store potentially hazardous foods in it until it is capable of keeping contents at 41F or below.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: Very heavy grease accumulation observed on ventilation hood at cook's line. Sticker shows scheduled cleaning
+is over one month overdue. Correct within 3 days.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Sanitizer level in wiping cloth bucket was measured at almost 0 ppm chlorine. Use the test strips to check
+sanitizer level regularly and maintain at 100 ppm minimum at all times. Corrected during the inspection.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Mop sink faucet with attached hose found with the anti-backflow device removed. Install hose bib vacuum
+breaker within 1 day.
+- THIRD REPEAT VIOLATION -
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: HINGS CHINESE RESTAURANT
+
+Permit Holder:
+
+CT
+
+FA
+76.01
+
+PR
+FA0004889
+
+Zip Code: 95841
+PE
+
+PR0005422
+
+1:50 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+4 of 5
+
+ALAN LAM
+
+City: Sacramento
+
+Address: 5800 MADISON AVE Q
+
+04/05/2016
+
+Time In:
+
+Phone (916)334-0760
+Type of Inspection:
+
+1621
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Shared garbage dumpster and tallow bin outside were found with lids open. Work with co-tenants and/or landlord
+to always keep lids closed when not being filled to prevent vermin infestation and possible dirty water (leachate) run-off to storm
+water drain. Close garbage dumpster lids as soon as possible today.
+- Repeat Violation -
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be
+kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at
+all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and
+other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+# 44e
+
+VERMIN AND ANIMAL EXCLUSION
+
+OBSERVATIONS: a. Large gaps (more than ¼ inch) observed under (on bottom corners) rear screen door providing possible entry
+for vermin. Correct within 24 hours.
+- SECOND REPEAT VIOLATION b. Self closing device of screen door was found removed. Correct within 3 days.
+
+CODE DESCRIPTION: A food facility shall at all times be constructed, equipped, and maintained as to prevent the entrance and harborage
+of animals, birds, and vermin, including, but not limited to, rodents and insects. Doors opening to outside air shall have a self-closing device
+and have no gaps greater than 1/4 inch when closed. Insect control devices shall be installed so that the devices are not located over a food
+or utensil handling areas. Pass-thru windows shall be of an approved size and be equipped with a self-closing device and air curtain if
+required. (114259, 114259.2, 114259.3)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: HINGS CHINESE RESTAURANT
+CT
+
+FA
+
+PR
+
+76.01
+
+FA0004889
+
+1:50 pm
+
+Time Out:
+
+4:20 pm
+
+Page:
+
+5 of 5
+
+ALAN LAM
+
+Permit Holder:
+City: Sacramento
+
+Address: 5800 MADISON AVE Q
+
+04/05/2016
+
+Time In:
+
+Phone (916)334-0760
+
+Zip Code: 95841
+PE
+
+Type of Inspection:
+
+PR0005422
+
+Routine
+
+1621
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Alan Lam
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+50 ppm
+
+Ware Sink Temp
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+150 º F
+
+Hand Sink Temp
+
+ppm
+150 º F
+
+Heat
+
+130 º F
+
+Wiping Cloth
+
+05/10/2016
+Iodine
+10
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+raw chicken, raw beef, rice / walk-in refrigerator / 39.00 ºF
+
+raw chicken / inside reach-in portion of cook's line refrigerator / 39.00 ºF
+
+fried rice / steam table / 174.00 ºF
+
+tofu, tempura shrimps / walk-in refrigerator / 40.00 ºF
+
+cream cheese / inside front counter cold top / 40.00 ºF
+
+fried chicken wings / final cooking temperature / 210.00 ºF
+
+hot & sour soup / steam table / 159.00 ºF
+
+crab sticks / front counter cold top / 41.00 ºF
+
+chow mein / inside reach-in portion of cook's line refrigerator / 41.00 ºF
+
+white rice / warmer / 167.00 ºF
+
+potsickers / upright refrigerator / 39.00 ºF
+
+NOTES
+
+- Operator was forewarned (for the second time) during the last routine inspection (see 12/7/2015 official inspection report) that a
+charged reinspection will be conducted if food holding temperature violations are still observed during the next (today's) routine
+inspection. A reinspection will be conducted to check on compliance on food holding temperatures after at least 5 days from today.
+- Food items were being delivered from Lee's Produce during the inspection. Tofu was measured at 54 F and bean sprouts were at 64 F.
+Operator was reminded that they should rejecting potentially hazardous food deliveries which are found out of temperature. Tofu and
+bean sprouts were not accepted and delivery man took these items back to his truck. Delivery man stated that their facility is just in the
+Downtown Sacramento area but he had six other stops before getting to this facility.
+- Reminder: Food safety certification in use will expire next month.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Lisa To / Manager
+
+F. Faustino
+
+Phone: (916)876-8820
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

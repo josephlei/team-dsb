@@ -1,0 +1,268 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: OAKDALE SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+74.13
+
+PR
+FA0005312
+
+Zip Code: 95660
+
+PE
+PR0005888
+
+10:00 am
+
+Time Out:
+
+11:10 am
+
+Page:
+
+1 of 2
+
+TWIN RIVERS USD
+
+City: North Highlands
+
+Address: 3708 MYRTLE AVE
+
+04/08/2016
+
+Time In:
+
+Phone (916)332-0246
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+OBSERVATIONS: Two spray bottles with unidentified liquid contents found in custodian's room (between kitchen and dry storage
+room. Label all chemicals and bottles. Correct today.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination
+of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food
+facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall
+be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: Ice buildup observed on floor and walls of Beverage Air upright freezer. At time of inspection, no food was found
+stored under leaks and no evidence of contamination was found. Do not store food items under leaks until this is corrected.
+Correct condensate leakage issue within 5 days.
+- Repeat Violation -
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 39
+
+TEMPERATURE MEASURING DEVICES
+
+OBSERVATIONS: Built-in and portable monitoring thermometers of milk case in the kitchen were both inaccurate (reading 25 F and
+30 F). Provide functioning thermometer and situate at the warmest part of the unit and where it is easily readable. Correct within 3
+days.
+
+CODE DESCRIPTION: An accurate easily readable metal probe thermometer suitable for measuring temperature of food shall be available
+to the food handler. Thermometers shall be calibrated in accordance with manufacturer's specifications as necessary to ensure their
+accuracy. A thermometer shall be provided for all refrigerators, hot and cold holding units, and high temperature warewashing machines.
+(114157, 114159)
+
+# 42
+
+GARBAGE AND REFUSE DISPOSAL
+
+OBSERVATIONS: Half-full garbage dumpster outside was found with lid open. Always keep lids closed when not being filled to
+prevent vermin infestation and possible dirty water (leachate) run-off to storm water drain. Corrected during the inspection.
+
+CODE DESCRIPTION: The exterior premises of a food facility shall be kept free of litter and rubbish. All food waste and rubbish shall be
+kept in nonabsorbent, durable, cleanable, leak-proof, and rodent-proof containers. Containers shall have close-fitting lids and be covered at
+all times. All waste must be removed and disposed of as frequently as necessary to prevent the development of objectionable odors and
+other conditions that attract or harbor insects or rodents. (114244, 114245, 114245.1, 114245.2, 114245.3, 114245.4, 114245.5, 114245.6,
+114245.7, 114257)
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: OAKDALE SCHOOL
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+74.13
+
+FA0005312
+
+10:00 am
+
+Time Out:
+
+11:10 am
+
+Page:
+
+2 of 2
+
+TWIN RIVERS USD
+
+City: North Highlands
+
+Address: 3708 MYRTLE AVE
+
+04/08/2016
+
+Time In:
+
+Phone (916)332-0246
+
+Zip Code: 95660
+
+PE
+
+Type of Inspection:
+
+PR0005888
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Annette Conklin
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+148 º F
+
+09/03/2020
+
+Expiration Date
+
+Hand Sink Temp
+
+400
+
+ppm
+
+120 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+400
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+ambient / inside milk case near dining area / 36.00 ºF
+
+chicken & cheese burrito / hot holding cabinet / 177.00 ºF
+
+ambient / inside milk case in dry storage room / 37.00 ºF
+
+chicken & cheese burrito / final cooking temperature / 197.00 ºF
+
+ambient / inside True upright refrigerator / 33.00 ºF
+
+ambient / inside Hobart upright refrigerator / 38.00 ºF
+
+ambient / inside milk case in kitchen / 41.00 ºF
+
+NOTES
+
+High temp dish machine was found inoperable. Three-compartment sink was found correctly set up for manual warewashing.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Annette Conklin / Lead
+
+F. Faustino
+
+Phone: (916)876-8820
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

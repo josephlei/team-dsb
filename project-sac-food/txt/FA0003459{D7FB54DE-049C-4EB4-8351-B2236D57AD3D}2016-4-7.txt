@@ -1,0 +1,280 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CARL'S JR RESTAURANT #8741
+
+Permit Holder:
+
+CT
+
+FA
+45.02
+
+PR
+FA0003459
+
+Zip Code: 95823
+PE
+
+PR0003849
+
+9:53 am
+
+Time Out:
+
+10:50 am
+
+Page:
+
+1 of 2
+
+AMS RESTAURANTS INC
+
+City: Sacramento
+
+Address: 7151 FRANKLIN BLVD
+
+04/07/2016
+
+Time In:
+
+Phone (916)421-2923
+Type of Inspection:
+
+1622
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Mixed shredded cheese at smaller cold top insert measured at 47F. Lid was kept closed to ensure it drops down to
+proper holding temperature.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Sanitizer level at ware wash sink measured at 150ppm quat. ammonia. Corrected at time of inspection.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 21
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: Hot water temperature at combined hand wash station measured at 93F. Provide hot water of 100-108F within 24
+hours. REPEAT VIOLATION
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Grease build up observed on the sides of the fryers. Clean and maintain within 48 hours.
+Found two boxes inside walk in cooler which are covered in ice and appear to have not been used in some time. Investigate today.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 41
+
+PLUMBING FIXTURES AND BACKFLOW PREVENTION
+
+OBSERVATIONS: Water leak observed on the base of both faucets at the ware wash sink. Replace or repair within 14 days. REPEAT
+VIOLATION
+
+CODE DESCRIPTION: Steam tables, ice machines, ice bins, food preparation sinks, display cases, walk-in refrigeration units, and other
+similar equipment that discharge liquid waste shall drain into a floor sink with an air gap or other approved type of receptor. Plumbing and
+plumbing fixtures shall be maintained so as to prevent contamination, shall be kept clean, fully operative, and in good repair. The potable
+water supply shall be protected with a backflow or back siphonage protection device. Any hose used for potable water shall be of approved
+materials, labeled, properly stored, and used for no other purpose. (114171, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: CARL'S JR RESTAURANT #8741
+CT
+
+FA
+
+PR
+
+45.02
+
+FA0003459
+
+9:53 am
+
+Time Out:
+
+10:50 am
+
+Page:
+
+2 of 2
+
+AMS RESTAURANTS INC
+
+Permit Holder:
+City: Sacramento
+
+Address: 7151 FRANKLIN BLVD
+
+04/07/2016
+
+Time In:
+
+Phone (916)421-2923
+
+Zip Code: 95823
+PE
+
+Type of Inspection:
+
+PR0003849
+
+Routine
+
+1622
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 49
+
+PERMIT REQUIREMENTS
+
+OBSERVATIONS: Post current health permit in conspicuous location. Correct within 7 days.
+
+CODE DESCRIPTION: A food facility shall not be open for business without a valid permit. Permit shall be posted in a conspicuous place
+within the food facility. (114067(b, c), 114381, 114387)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Eduardo Lizalde
+
+Name on Food Safety Certificate
+Warewash
+
+ppm
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+122 º F
+
+01/13/2021
+
+Expiration Date
+
+Hand Sink Temp
+
+150
+
+ppm
+
+93 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+0
+
+ppm
+ppm
+
+QA
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+Diced Chicken / Steam Table / 183.00 ºF
+
+Uncooked Chicken Strips / Chicken Strip Prep. Table / 35.00 ºF
+
+Sausages / Hot Holding Unit / 138.00 ºF
+
+Precooked Beef Patty / Walk in Cooler / 39.00 ºF
+
+Scrambled Eggs / Hot Holding Unit / 155.00 ºF
+
+Hamburger Patty / Hot Holding Unit @ Prep. Line / 168.00 ºF
+
+NOTES
+
+*LED light which had slight water damaged during past routine inspection has dried up but continues to provide adequate lighting. Per
+manager, water leak has been repaired. Highly recommend replacing light.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Eduardo Lizalde / Manager
+
+M. Estrada Jr.
+
+Phone: (916)875-8553
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

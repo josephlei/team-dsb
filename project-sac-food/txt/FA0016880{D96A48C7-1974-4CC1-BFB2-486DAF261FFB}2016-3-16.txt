@@ -1,0 +1,278 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAN JUAN UNIFIED FOOD SERVICE
+
+Permit Holder:
+
+CT
+
+FA
+76.02
+
+PR
+FA0016880
+
+Zip Code: 95608
+PE
+
+PR0035353
+
+1:15 pm
+
+Time Out:
+
+3:20 pm
+
+Page:
+
+1 of 2
+
+SAN JUAN UNIFIED SCHOOL DIST
+
+City: Carmichael
+
+Address: 3738 WALNUT AVE
+
+03/16/2016
+
+Time In:
+
+Phone (916)971-7026
+Type of Inspection:
+
+1625
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Found chicken breast on salad at 53F stored inside True cooler. Per employee, chicken salad was stored on top of
+ice sheets at customer self-service area for 90 minutes and then was placed inside cooler. Corrected.
+Minor Violation: Sliced cheeses (swiss/provolone) at 47F inside reach-in cooler. Per employee, cheese was stored out on the
+counter top during lunch time. Do not store food items on the counter top without temperature control. Bring out on a needed bases
+and store rest in refrigerator unit. Corrected.
+Potentially hazardous foods may not be stored at room temperature unless time as a public health control (TPHC) is used. Store
+foods at/below 41F or at/above 135F at all times.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 21
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+HOT AND COLD WATER SUPPLY
+
+OBSERVATIONS: - Lack of hot water at 2-comp warewash sink and handsink at the back prep area located inside warehouse area.
+Food prep was not conducted at this location and cafeteria was closing at time of inspection. Another 2-comp warewash sink
+located inside cafeteria with 127F of hot water. Maintenance arrived during inspection but was unable to fix this hot water issue.
+Provide hot water of 120F to warewash sink and at least 100F to handwash sink at back prep area within 24 hours. There shall be no
+food prep conducted in this area until required hot water is provided. Fax repair order to EMD attn: Elena within 3 days or
+reinspection will apply to verify compliance.
+- Hot water was between 109F-111F at not readily adjustable faucets inside women's restroom at admit building. Hot water from
+these faucets shall be between 100F-108F. Correct within 24 hours.
+
+CODE DESCRIPTION: An adequate, protected, pressurized, potable supply of hot and cold water shall be provided at all times. Hot water
+shall be supplied at a minimum temperature of at least 120F when measured from the faucet. The temperature of water provided to
+handwashing facilities shall be at least 100F. Handwashing facilities equipped with auto run faucets shall have their water temperature set
+between 100F to 108F. (113953(c), 114101(d), 114189, 114192, 114192.1, 114195)
+
+# 30b
+
+FOOD CONTAINERS LABELED
+
+OBSERVATIONS: Unlabeled food container was found in dry storage area and inside freezer. Label all food products properly within
+2 days.
+
+CODE DESCRIPTION: Containers holding food or food ingredients that are removed from their original packaging shall be identified with the
+common name of the food. (114051)
+
+# 47a
+
+SIGNS POSTED AS REQUIRED
+
+OBSERVATIONS: Women's restroom at administrator building missing handwash sign. Handwash sign was provided during last
+routine inspection report on 11-10-15. Post handwashing sign within 2 days.
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+MAJOR
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SAN JUAN UNIFIED FOOD SERVICE
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+76.02
+
+FA0016880
+
+1:15 pm
+
+Time Out:
+
+3:20 pm
+
+Page:
+
+2 of 2
+
+SAN JUAN UNIFIED SCHOOL DIST
+
+City: Carmichael
+
+Address: 3738 WALNUT AVE
+
+03/16/2016
+
+Time In:
+
+Phone (916)971-7026
+
+Zip Code: 95608
+PE
+
+Type of Inspection:
+
+PR0035353
+
+Routine
+
+1625
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+CODE DESCRIPTION: Handwashing signs directing employees to wash hands after using the restroom shall be posted in each toilet room
+used by food employees. No smoking signs shall be posted in food preparation, food storage, warewashing, and utensil storage areas.
+Food facilities constructed without a public toilet prior January 1, 2004, shall post a sign in a prominant area within the food facility, stating
+that toilet facilities are not provided. (113953.5, 113978, 114276 (f)).
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Debbie Merrill
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+01/12/2017
+
+Expiration Date
+
+Quaternary Ammonia (QA)
+70 º F
+
+Hand Sink Temp
+
+ppm
+111 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+jack cheese / walk-in cooler inside warehouse area / 40.00 ºF
+
+chicken breast, sliced tomatoes / cold top cooler / 40.00 ºF
+
+sliced melon with other fruit / 2-door reach-in cooler / 40.00 ºF
+
+sliced turkey, shredded cheese / 2-door True cooler / 42.00 ºF
+
+NOTES
+
+1. Program element covers the central food supply warehouse for the entire school district (food service supervisor J. Toledo) and the
+cafeteria inside the main administration building (managed by Debbie Merrill). Cafeteria served breakfast 8-11am & lunch
+11:30am-1:15pm. Warehouse opens at 6am.
+2. Observed packaged muffins inside 2-door cooler. If packaged muffins and bagels are stored at customer self-service area then they
+must be properly labeled. (See last routine inspection report #32 for details on labeling). Also, provide ingredient list and/or nutritional
+panels to verify trans fat information for muffins.
+3. Keep dry storage room at back prep area more organized and separate cafeteria items from other food items used for other school
+functions. Label accordingly.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Joseph Toledo "Jo" / Food service supervisor
+
+E. Drobenyuk
+
+Phone: (916)875-1749
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

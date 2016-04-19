@@ -1,0 +1,381 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SWEETS & SUGARS
+
+Permit Holder:
+
+CT
+
+FA
+24.00
+
+PR
+FA0003492
+
+Zip Code: 95818
+PE
+
+PR0003776
+
+1:00 pm
+
+Time Out:
+
+1:54 pm
+
+Page:
+
+1 of 3
+
+DRUCILA RUVALCABA
+
+City: Sacramento
+
+Address: 3051 FREEPORT BLVD
+
+04/12/2016
+
+Time In:
+
+Phone (916)447-5050
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 1c
+
+FOOD HANDLER CARDS
+
+OBSERVATIONS: Food handler cards missing for employees. All employees that handle food must have valid food handler cards.
+Provide within 3 days. 2nd REPEAT VIOLATION.
+** Reinspection may be required due to ongoing noncompliance with food handler cards. Reinspection fees of $268 may apply **
+
+CODE DESCRIPTION: Food handlers that prepare, handle, or serve non-prepackaged potentially hazardous food, shall obtain a valid Food
+Handler Card within 30 days after date of hire. (113948)
+
+#7
+
+HOT AND COLD HOLDING TEMPERATURES
+
+OBSERVATIONS: Cut melon at 46 F on cold top of left prep unit (under large display board). Ambient temperature of unit is 50 F.
+Manager adjusted refrigerator unit during inspection. Ensure all potentially hazardous foods (PHFs) are maintained at 41 F or less.
+
+CODE DESCRIPTION: Potentially hazardous foods shall be maintained at or below 41F or at or above 135F. The following foods may be
+held at or below 45F: raw shell eggs, unshucked live molluscan shellfish, pasteurized milk and pasteurized milk products in original sealed
+containers, potentially hazardous foods held during transportation. Food preparation shall not exceed two cumulative hours without a return
+to the required holding temperatures. (113996, 113998, 114037)
+
+# 13
+
+FOOD IN GOOD CONDITION, SAFE, AND UNADULTERATED
+
+OBSERVATIONS: A can of whip cream in undercounter reach-in refrigerator is stuck to heavy ice build up inside of unit. Manager
+discarded during inspection. Ensure foods are protected from contamination.
+
+CODE DESCRIPTION: Employees shall not commit any act that may cause the contamination or adulteration of food or food contact
+surfaces. Food shall be produced, prepared, stored, transported, and served, so as to be free from adulteration and spoilage. Food is
+considered adulterated if it bears or contains any poisonous or deleterious substance that may render it impure or injurious to health.
+Containers previously used to store poisonous or toxic materials shall not be used to store food, utensils, or single-use articles. Utensils
+used for tasting shall be discarded or washed, rinsed, and sanitized between tastings. Ice used as a medium for cooling food and
+beverages shall not be offered for consumption. Food shall be inspected upon receipt and prior to any use, storage, or resale. (113967,
+113976, 113980, 113988, 113990, 114035, 114167, 114254.3)
+
+# 14b
+
+WAREWASHING AND SANITIZING PROCEDURES
+
+OBSERVATIONS: Observed warewash sink set up improperly (right compartment just has water in it and middle compartment has
+100 ppm of bleach). Employees were not actively washing dishes during inspection. Ensure all dishes and utensils are properly
+washed, rinsed, sanitized and air-dried in 3-compartment warewash sink. Blenders and in-use utensils must be washed, rinsed and
+sanitized every 4 hours. Correct today.
+
+CODE DESCRIPTION: Food-contact surfaces and multiservice utensils shall be effectively washed, rinsed, and sanitized to remove or
+completely loosen soils by use of manual or mechanical methods. The temperature of the washing solution shall be maintained at least
+100F or at the temperature specified by the manufacturer's label. Manual sanitation shall be accomplished during the final rinse by contact
+with solution containing 100 ppm available chlorine or 200 ppm quaternary ammonium. Mechanical sanitization shall be accomplished in
+the final rinse by achieving a utensil surface temperature of 160F or by contact with solution containing 50 ppm available chlorine. After
+cleaning and sanitizing, equipment and utensils shall be air dried. (114097, 114099.1, 114099.2, 114099.4, 114099.6, 114099.7, 114101
+(b-d), 114105, 114109, 114111)
+
+# 29
+
+IDENTIFICATION AND STORAGE OF TOXIC SUBSTANCES
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SWEETS & SUGARS
+
+Permit Holder:
+
+CT
+
+FA
+24.00
+
+PR
+FA0003492
+
+1:00 pm
+
+Time Out:
+
+1:54 pm
+
+Page:
+
+2 of 3
+
+DRUCILA RUVALCABA
+
+City: Sacramento
+
+Address: 3051 FREEPORT BLVD
+
+04/12/2016
+
+Time In:
+
+Zip Code: 95818
+PE
+
+PR0003776
+
+Phone (916)447-5050
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OBSERVATIONS: Spray bottles of chemicals are not labeled. Provide labels.
+Soap is being stored in dispensing unit that is normally used for syrups. Label soap today.
+
+CODE DESCRIPTION: All poisonous substances, detergents, sanitizers, and cleaning compounds shall be stored to prevent contamination
+of food, equipment, utensils, linens, and single-use articles. Only pesticides that are necessary and specifically approved for use in a food
+facility may be used. Containers of poisonous or toxic materials shall have a legible manufacturer's label or if taken from bulk supplies shall
+be clearly and individually identified with the common name of the material. (114254, 114254.1, 114254.2)
+
+# 30b
+
+FOOD CONTAINERS LABELED
+
+OBSERVATIONS: Some of bulk food containers lack labels. Label containers today.
+
+CODE DESCRIPTION: Containers holding food or food ingredients that are removed from their original packaging shall be identified with the
+common name of the food. (114051)
+
+# 33
+
+NONFOOD-CONTACT SURFACES CLEAN
+
+OBSERVATIONS: Side of undercounter refrigerator has significant ice build up. Clean and maintain within 2 days.
+
+CODE DESCRIPTION: Nonfood-contact surfaces of equipment shall be kept free of an accumulation of dust, dirt, food residue, and other
+debris. Interior premises of a food facility shall be kept clean. (114115 (b), 114257)
+
+# 36
+
+EQUIPMENT STORED IN APPROVED LOCATION
+
+OBSERVATIONS: Forks and spoons in customer self-service area have mouth part exposed. Utensils shall be stored with mouth
+part
+protected from contamination (e.g. mouth part down in vertical position in container or mouth part covered in horizontal position).
+Corrected during inspection.
+
+CODE DESCRIPTION: Clean equipment, utensils, linens, and single-use articles shall be stored at least six inches above the floor in an
+approved location within the fully enclosed permitted food facility. Clean equipment, utensils, linens, and single-use articles shall not be
+exposed to splash, dust, vermin or other forms of contamination. Non-food items shall be stored and displayed separate from food and
+food-contact surfaces. During pauses in food preparation utensils shall be stored with handles above the top of the food, on a clean
+sanitized surface, in running water, or in water that is at least 135F. Single-use articles and multiservice utensils shall be handled,
+displayed, and dispensed so that contamination of food and lip-contact surfaces is prevented. Pressurized cylinders shall be securely
+fastened to rigid structure. (114074, 114081, 114119, 114121, 114161, 114172, 114178, 114179, 114083, 114185, 114185.2, 114185.3,
+114185.4, 114185.5)
+
+# 38
+
+VENTILATION AND LIGHTING
+
+OBSERVATIONS: The tube lights behind front counter (above prep refrigerator) are lacking shatterproof covers. Provide within 2
+days. 2nd REPEAT VIOLATION.
+
+CODE DESCRIPTION: Exhaust hoods shall be provided to remove toxic gases, heat, grease, vapors and smoke and be approved by health
+and building department. Canopy-type hoods shall extend six inches beyond all cooking equipment. All areas shall have sufficient
+ventilation to facilitate proper food storage. Toilet rooms shall be vented to the outside air by a screened openable window, air shaft, or
+light-switch activated exhaust fan. Adequate lighting shall be provided in all areas to facilitate cleaning and inspection. Light fixtures in
+areas where open food is stored, served, prepared, and where utensils are washed shall be of shatterproof construction or protected with
+light shields. (114149, 114149.1, 114149.2, 114149.3, 114252, 114252.1)
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: SWEETS & SUGARS
+CT
+
+FA
+
+PR
+
+24.00
+
+FA0003492
+
+1:00 pm
+
+Time Out:
+
+1:54 pm
+
+Page:
+
+3 of 3
+
+DRUCILA RUVALCABA
+
+Permit Holder:
+City: Sacramento
+
+Address: 3051 FREEPORT BLVD
+
+04/12/2016
+
+Time In:
+
+Phone (916)447-5050
+
+Zip Code: 95818
+PE
+
+Type of Inspection:
+
+PR0003776
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+# 43
+
+RESTROOMS MAINTAINED, SUPPLIED, AND ACCESSIBLE
+
+OBSERVATIONS: Toilet paper is resting on top of dispenser. Provide toilet paper in dispensers. Correct today.
+
+CODE DESCRIPTION: Toilet facilities shall be maintained and kept clean. Toilet rooms shall be separated by a well-fitting self-closing door.
+Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with
+local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments with more than 20,000 sq. ft.;
+establishments offering on-site consumption of food. (114250, 114250.1, 114276)
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Drucila Ruvalcaba
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+100 ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+134 º F
+
+12/01/2016
+
+Expiration Date
+
+Hand Sink Temp
+
+ppm
+127 º F
+
+Heat
+
+ºF
+
+Wiping Cloth
+
+Iodine
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+No Temperature Data Reported
+
+NOTES
+
+Reinspection may be required due to ongoing noncompliance with REPEAT VIOLATIONS. Reinspection fees of $268 may apply
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Francisco / Manager
+
+M. Bilodeau
+
+Phone:
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+

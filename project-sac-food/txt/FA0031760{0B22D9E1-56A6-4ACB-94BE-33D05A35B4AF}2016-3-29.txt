@@ -1,0 +1,271 @@
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: ARCO AM/PM #2166
+
+Permit Holder:
+
+CT
+
+FA
+
+PR
+
+56.01
+
+FA0031760
+
+Zip Code: 95825
+PE
+
+PR0011866
+
+12:10 pm
+
+Time Out:
+
+1:00 pm
+
+Page:
+
+1 of 2
+
+AMARDEEP SINGH
+
+City: Sacramento
+
+Address: 1855 WATT AVE
+
+03/29/2016
+
+Time In:
+
+Phone (916)972-8273
+Type of Inspection:
+
+1623
+
+Routine
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+#6
+
+HANDWASHING FACILITIES
+
+MAJOR
+
+OBSERVATIONS: Empty paper towel dispenser was found at front handwash station. Keep handwash station stocked with soap and
+paper towels at all times. Roll of paper towels was provided during inspection. REPEAT VIOLATION
+
+CODE DESCRIPTION: Handwashing facilities shall be provided within or adjacent to toilet rooms, food preparation, and warewashing
+areas. Handwashing facilities shall be clean, unobstructed, and accessible at all times. Handwashing facilities shall be provided with soap
+and sanitary single-use towels or heated-air hand drying device in approved dispensers. Dispensers shall be maintained in good repair.
+(113953, 113953.1, 113953.2)
+For more information on this violation please watch the following Food Safety video:
+
+English
+# 27
+
+Cantonese
+
+Spanish
+
+Vietnamese
+
+FOOD PROTECTED FROM CONTAMINATION
+
+OBSERVATIONS: Front handwash station located next to bread toaster. Provide required separation (splash guard) to prevent
+food/equipment from contamination. (Splash guard requirement: shall be metal with a height of at least 6 inches, that extends from
+the back edge of the handwash sink to the front edge of the handwash sink, the corners of the barrier to be rounded.) Install within 5
+days. 2ND REPEAT VIOLATION
+
+CODE DESCRIPTION: Food shall be protected from contamination during transportation, storage, preparation, holding, and display. Food
+and condiments on display shall be protected from contamination by the use of dispensers, packaging, counter, service line, or sneeze
+guards that intercept a direct line between the consumer's mouth and the food being displayed. Only prepackaged non-potentially
+hazardous food or uncut produce may be displayed or sold outdoors if under overhead cover. Open-air barbecues shall be separated from
+public access. (113984 (a-f), 113986, 114060, 114067, 114069, 114077, 114089.1 (c), 114143 (c-e))
+
+# 35
+
+EQUIPMENT APPROVED AND MAINTAINED
+
+OBSERVATIONS: - Observed exposed wires on ice machine located inside walk-in cooler. Per employee, they no longer use this ice
+machine. Replace or remove within 14 days.
+- Water leak observed from cappuccino machine. Per employee, repair order has been placed. Repair within 7 days.
+
+CODE DESCRIPTION: Utensils and equipment shall be kept fully operative and in good repair. All new and replacement equipment shall be
+properly installed and be certified by NSF, UL Sanitation, or ETL Sanitation. Facilities that wash, rinse, soak, thaw, or similarly prepare
+foods shall be provided with a approved food preparation sink. Surfaces such as cutting blocks and boards that are subject to scratching
+and scoring shall be resurfaced or replaced if they can no longer be effectively cleaned and sanitized. (114130, 114130.1, 114130.2,
+114130.3, 114130.4, 114130.5, 114130.6, 114132, 114133, 114137, 114139, 114153, 114163, 114165, 114169, 114175, 114177, 114180)
+
+# 40
+
+WIPING CLOTHS STORAGE AND USE
+
+OBSERVATIONS: Wet and soiled cloth towel observed on counter top behind warmer. Set up sanitizer bucket with 100 ppm chlorine
+and store cloth towel inside sanitizer solution between use. Corrected.
+
+CODE DESCRIPTION: Wiping cloths used to clean food and nonfood-contact surfaces shall be used only once unless kept in clean water
+with a sanitizer solution of 100 ppm available chlorine or 200 ppm quaternary ammonium. Sponges shall not be used on food-contact
+surfaces. Except for fabric implements, linen shall not be used in contact with food. (114099.6, 114135, 114185.1, 114185.3 (d-e)).
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+County of Sacramento
+
+Date:
+
+Retail Food Facility
+Official Inspection Report
+Facility Name: ARCO AM/PM #2166
+CT
+
+FA
+
+PR
+
+56.01
+
+FA0031760
+
+12:10 pm
+
+Time Out:
+
+1:00 pm
+
+Page:
+
+2 of 2
+
+AMARDEEP SINGH
+
+Permit Holder:
+City: Sacramento
+
+Address: 1855 WATT AVE
+
+03/29/2016
+
+Time In:
+
+Phone (916)972-8273
+
+Zip Code: 95825
+PE
+
+Type of Inspection:
+
+PR0011866
+
+Routine
+
+1623
+
+Items listed on this report as violations do not meet the requirements set forth in the California Health and Safety Code commencing with section 7; 113700. All
+violations must be corrected within specified timeframe. Violations that are classified as "Major" pose an immediate threat to public health and have the potential
+to cause foodborne illness. All major violations must be corrected immediately. Non-compliance may warrant immediate closure of the food facility.
+
+OVERALL INSPECTION COMMENTS
+OBSERVATIONS
+Sangeeta Singh
+
+Name on Food Safety Certificate
+Warewash
+
+Chlorine (Cl)
+
+Water/Hot Water
+
+ppm
+
+Ware Sink Temp
+
+Quaternary Ammonia (QA)
+128 º F
+
+04/26/2019
+
+Expiration Date
+
+ppm
+
+Hand Sink Temp
+
+100 º F
+
+Heat
+
+ºF
+
+Iodine
+
+Wiping Cloth
+
+0
+
+ppm
+ppm
+
+Cl
+
+FOOD ITEM / LOCATION / TEMP º F DOCUMENTATION
+sliced tomatoes / counter top cooler / 41.00 ºF
+
+corn dogs, sausages, beef patty / walk-in cooler / 33.00 ºF
+
+milk / display cooler / 42.00 ºF
+
+chili / warmer dispenser / 135.00 ºF
+
+NOTES
+
+1. Food health permit shall be posted in conspicuous location. Correct today.
+2. Facility is utilizing time as a public health control time 3 1/2 hours for all hot food items inside warmer. Packaged food was properly
+time stamped during inspection.
+
+STATUS
+
+x GREEN - Pass
+o YELLOW - Conditional Pass; Reinspection required
+o RED- Closed; Suspension of permit to operate
+o Placard program not applicable at this time
+ACTIONS
+
+o Photographic documentation obtained
+o Compliance conference required
+o Food / equipment impounded (50)
+
+The person in charge is responsible for ensuring that the above mentioned facility is in compliance with all
+applicable sections of the California Health and Safety Code. If a reinspection is required, fees may be
+assessed as authorized by current Sacramento County Code, Chapter 6.99.150.
+
+Accepted by:
+Name and Title:
+Specialist:
+
+Niazi Mohammad / cashier
+
+E. Drobenyuk
+
+Phone: (916)875-1749
+
+o Food safety education required; # of employees
+o Permit Suspension; facility closure required (51)
+
+Co-Inspector:
+
+County of Sacramento - Environmental Management Department
+10590 Armstrong Avenue - Suite B - Mather, CA 95655 - Telephone: 916/875-8440 - Fax: 916/875-8513
+http://www.emd.saccounty.net/EnvHealth/EnvironmentalHealth.html
+
+
